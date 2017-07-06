@@ -12,7 +12,7 @@ Welcome to TensoFlow-World-Resources's documentation!
    
    README
    intro/intro
-   tutorials/tutorial
+   content/warmup
 
 
 
