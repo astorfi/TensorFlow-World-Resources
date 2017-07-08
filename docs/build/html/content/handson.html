@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Introduction &mdash; Python 0.1.0 documentation</title>
+  <title>Programming with TensorFlow &mdash; Python 0.1.0 documentation</title>
   
 
   
@@ -36,8 +36,7 @@
               href="../genindex.html"/>
         <link rel="search" title="Search" href="../search.html"/>
     <link rel="top" title="Python 0.1.0 documentation" href="../index.html"/>
-        <link rel="next" title="Entrance to TensorFlow World" href="../content/warmup.html"/>
-        <link rel="prev" title="README" href="../README.html"/> 
+        <link rel="prev" title="Entrance to TensorFlow World" href="warmup.html"/> 
 
   
   <script src="../_static/js/modernizr.min.js"></script>
@@ -93,9 +92,16 @@
               <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../README.html">README</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Introduction</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content/warmup.html">Entrance to TensorFlow World</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../content/handson.html">Programming with TensorFlow</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../intro/intro.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="warmup.html">Entrance to TensorFlow World</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Programming with TensorFlow</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#reading-data-and-input-pipeline">Reading data and input pipeline</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#written-resources">Written resources</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visual-resources">Visual resources</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
             
@@ -140,13 +146,13 @@
     
       <li><a href="../index.html">Docs</a> &raquo;</li>
         
-      <li>Introduction</li>
+      <li>Programming with TensorFlow</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
-            <a href="../_sources/intro/intro.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/content/handson.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -159,9 +165,32 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="introduction">
-<h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h1>
-<p>The purpose of this project is to help scientists write better documentation.</p>
+  <div class="section" id="programming-with-tensorflow">
+<h1>Programming with TensorFlow<a class="headerlink" href="#programming-with-tensorflow" title="Permalink to this headline">¶</a></h1>
+<p>The references here, deal with the details of programming and writing TensorFlow code.</p>
+<div class="section" id="reading-data-and-input-pipeline">
+<h2>Reading data and input pipeline<a class="headerlink" href="#reading-data-and-input-pipeline" title="Permalink to this headline">¶</a></h2>
+<p>The first part is always how to prepare data and how to providing the pipeline to feed it to TensorFlow.
+Usually providing the input pipeline can be complicated, even more than the structure design!</p>
+<div class="section" id="written-resources">
+<h3>Written resources<a class="headerlink" href="#written-resources" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/tensorflow/tensorflow/tree/v1.2.0-rc1/tensorflow/contrib/data">Dataset API for TensorFlow Input Pipelines</a>: A TensorFlow official documentation on <em>Using the Dataset API for TensorFlow Input Pipelines</em></li>
+<li><a class="reference external" href="http://web.stanford.edu/class/cs20si/lectures/slides_09.pdf">TesnowFlow input pipeline</a>: Input pipeline provided by Stanford.</li>
+<li><a class="reference external" href="http://ischlag.github.io/2016/06/19/tensorflow-input-pipeline-example/">TensorFlow input pipeline example</a> : A working example.</li>
+<li><a class="reference external" href="https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/">TensorFlow Data Input</a> : TensorFlow Data Input: Placeholders, Protobufs &amp; Queues</li>
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/reading_data">Reading data</a>: The official documentation by the TensorFLow on how to read data</li>
+<li><a class="reference external" href="http://learningtensorflow.com/ReadingFilesBasic/">basics of reading a CSV file</a>: A tutorial on reading a CSV file</li>
+<li><a class="reference external" href="https://www.tensorflow.org/extend/new_data_formats">Custom Data Readers</a>: Official documentation on this how to define a reader.</li>
+</ul>
+</div>
+<div class="section" id="visual-resources">
+<h3>Visual resources<a class="headerlink" href="#visual-resources" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://www.youtube.com/watch?v=F503abjanHA">Tensorflow tutorial on TFRecords</a>: A tutorial on how to transform data into TFRecords</li>
+</ul>
+</div>
+</div>
 </div>
 
 
@@ -174,10 +203,8 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../content/warmup.html" class="btn btn-neutral float-right" title="Entrance to TensorFlow World" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
-      
-        <a href="../README.html" class="btn btn-neutral" title="README" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="warmup.html" class="btn btn-neutral" title="Entrance to TensorFlow World" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   

@@ -5,10 +5,48 @@ In this section, different TensorFlow topics and their associated
 resources will be addressed.
 
 
+Installation
+-------------
+
+.. * `Title`_:Some text.
+.. _Title: link
+
+First of all, the TensorFlow must be installed!
+
+Written Resources
+~~~~~~~~~~~~~~~~~~
+
+* `Installing TensorFlow`_: Official TensorFLow installation
+* `Install TensorFlow from the source`_: A comprehensive guide on how to install TensorFlow from the source using python/anaconda
+* `TensorFlow Installation`_:A short TensorFlow installation guide powered by NVIDIA
+* `7 SIMPLE STEPS TO INSTALL TENSORFLOW ON WINDOWS`_: A concise tutorial for installing TensorFlow on Windows
+
+.. _Installing TensorFlow: https://www.tensorflow.org/install/
+.. _Install TensorFlow from the source: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/installation
+.. _TensorFlow Installation: http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html
+.. _7 SIMPLE STEPS TO INSTALL TENSORFLOW ON WINDOWS: http://saintlad.com/install-tensorflow-on-windows/
+
+
+
+Visual Resources
+~~~~~~~~~~~~~~~~
+
+* `Install TensorFlow on Ubuntu`_: A comprehensive tutorial on how to install TensorFlow on Ubuntu
+* `Installation of TensorFlow`_: The video covers how to setup TensorFlow
+* `Installing CPU and GPU TensorFlow on Windows`_: A tutorial on TensorFlow installation for Windows
+* `Installing the GPU version of TensorFlow for making use of your CUDA GPU`_: A gpu-targeted TensoFlow installation
+
+
+.. _Install TensorFlow on Ubuntu: https://www.youtube.com/watch?v=_3JFEPk4qQY&t=3s
+.. _Installation of TensorFlow: https://www.youtube.com/watch?v=CvspEt8kSIg
+.. _Installing CPU and GPU TensorFlow on Windows: https://www.youtube.com/watch?v=r7-WPbx8VuY
+.. _Installing the GPU version of TensorFlow for making use of your CUDA GPU: https://www.youtube.com/watch?v=io6Ajf5XkaM
+
+
 Getting Started
 ---------------
 
-This part points to resources on how to start to code with TensorFLow.
+This part points to resources on how to start to code with TensorFLow
 
 
 .. * :ref:`in-rst`
@@ -19,9 +57,9 @@ This part points to resources on how to start to code with TensorFLow.
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
-* `Getting Started With TensorFlow`_:This guide gets you started programming in TensorFlow.
-* `learning tensorflow`_:A great resource to start.
-* `Welcome to TensorFlow World`_: A simple and concise start to TensorFLow.
+* `Getting Started With TensorFlow`_:This guide gets you started programming in TensorFlow
+* `learning tensorflow`_:A great resource to start
+* `Welcome to TensorFlow World`_: A simple and concise start to TensorFLow
 
 .. _learning tensorflow: http://learningtensorflow.com/getting_started/
 .. _Getting Started With TensorFlow: https://www.tensorflow.org/get_started/get_started
@@ -70,7 +108,7 @@ Visual Resources
 * `Distributed TensorFlow - Design Patterns and Best Practices`_: A talk that was given at the Advanced Spark and TensorFlow Meetup
 * `Fundamentals of TensorFlow`_
 * `TensorFlow Wide and Deep - Advanced Classification the easy way`_
-* `Tensorflow and deep learning - without a PhD`_: A great tutorial on TensoFLow workflow.
+* `Tensorflow and deep learning - without a PhD`_: A great tutorial on TensoFLow workflow
 
 
 
