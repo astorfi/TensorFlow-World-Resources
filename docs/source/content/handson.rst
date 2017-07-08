@@ -137,6 +137,18 @@ MetaGraphs
 .. _Exporting and Importing a MetaGraph: https://www.tensorflow.org/programmers_guide/meta_graph
 .. _Model checkpointing using meta-graphs in TensorFlow: http://www.seaandsailor.com/tensorflow-checkpointing.html
 
+Tensorboard
+^^^^^^^^^^^
+
+* `TensorBoard - Visualizing Learning`_: Official documentation by TensorFlow.
+* ` TensorFlow Ops`_: Provided by Stanford
+* `Title`_: some text
+
+
+.. _TensorBoard - Visualizing Learning: https://www.tensorflow.org/get_started/summaries_and_tensorboard
+.. _ TensorFlow Ops: http://web.stanford.edu/class/cs20si/lectures/notes_02.pdf
+.. _Title: link
+
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
