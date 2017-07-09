@@ -119,29 +119,27 @@ Autoencoders
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
+* `Deep Autoencoder with TensorFlow`_: An open source project
+* `Variational Autoencoder in TensorFlow`_: A tutorial on Variational Autoencoder
+* `Diving Into TensorFlow With Stacked Autoencoders`_: A nice brief tutorials
+* `Convolutional Autoencoders in Tensorflow`_: Implementing a single layer CAE
+* `Variational Autoencoder using Tensorflow`_: Facial expression low dimensional embedding
 
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
+.. _Deep Autoencoder with TensorFlow: https://github.com/cmgreen210/TensorFlowDeepAutoencoder
+.. _Variational Autoencoder in TensorFlow: https://jmetzen.github.io/2015-11-27/vae.html
+.. _Diving Into TensorFlow With Stacked Autoencoders: http://cmgreen.io/2016/01/04/tensorflow_deep_autoencoder.html
+.. _Convolutional Autoencoders in Tensorflow: https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/
+.. _Variational Autoencoder using Tensorflow: http://int8.io/variational-autoencoder-in-tensorflow/
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
+* `Deep Learning with Tensorflow - Autoencoder Structure`_: Tutorial on Autoencoder models
+* `Deep Learning with Tensorflow - RBMs and Autoencoders`_: Tutorial on Restricted Boltzman machines and AEs
 
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
+.. _Deep Learning with Tensorflow - Autoencoder Structure: https://www.youtube.com/watch?v=H_Bi_PQWJJc
+.. _Deep Learning with Tensorflow - RBMs and Autoencoders: https://www.youtube.com/watch?v=FsAvo0E5Pmw
 
 
 Generative models
