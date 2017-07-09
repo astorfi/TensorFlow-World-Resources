@@ -1,0 +1,387 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Programming with TensorFlow &mdash; Python 0.1.0 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="Index"
+              href="../genindex.html"/>
+        <link rel="search" title="Search" href="../search.html"/>
+    <link rel="top" title="Python 0.1.0 documentation" href="../index.html"/>
+        <link rel="next" title="TensorFlow Tutorials" href="tutorials.html"/>
+        <link rel="prev" title="Entrance to TensorFlow World" href="warmup.html"/> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> Python
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.1.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Foreword</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../README.html">README</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../intro/intro.html">Introduction</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Content</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="warmup.html">Entrance to TensorFlow World</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Programming with TensorFlow</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#reading-data-and-input-pipeline">Reading data and input pipeline</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#written-resources">Written resources</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#visual-resources">Visual resources</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#variables">Variables</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id1">Written Resources</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#creation-initialization">Creation, Initialization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#saving-and-restoring">Saving and restoring</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sharing-variables">Sharing Variables</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">Visual Resources</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#tensorflow-utilities">TensorFlow Utilities</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id5">Written Resources</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#supervisor">Supervisor</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tensorflow-debugger">TensorFlow Debugger</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#metagraphs">MetaGraphs</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tensorboard">Tensorboard</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#id7">Visual Resources</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tutorials.html">TensorFlow Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="projects.html">TensorFlow Projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="books.html">Published Resources</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Document Credentials</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../credentials/CONTRIBUTING.html">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../credentials/CODE_OF_CONDUCT.html">Contributor Covenant Code of Conduct</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../credentials/LICENSE.html">LICENSE</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">Python</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Programming with TensorFlow</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/content/howtocode.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="programming-with-tensorflow">
+<h1>Programming with TensorFlow<a class="headerlink" href="#programming-with-tensorflow" title="Permalink to this headline">¶</a></h1>
+<p>The references here, deal with the details of programming and writing TensorFlow code.</p>
+<div class="section" id="reading-data-and-input-pipeline">
+<h2>Reading data and input pipeline<a class="headerlink" href="#reading-data-and-input-pipeline" title="Permalink to this headline">¶</a></h2>
+<p>The first part is always how to prepare data and how to providing the pipeline to feed it to TensorFlow.
+Usually providing the input pipeline can be complicated, even more than the structure design!</p>
+<div class="section" id="written-resources">
+<h3>Written resources<a class="headerlink" href="#written-resources" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/tensorflow/tensorflow/tree/v1.2.0-rc1/tensorflow/contrib/data">Dataset API for TensorFlow Input Pipelines</a>: A TensorFlow official documentation on <em>Using the Dataset API for TensorFlow Input Pipelines</em></li>
+<li><a class="reference external" href="http://web.stanford.edu/class/cs20si/lectures/slides_09.pdf">TesnowFlow input pipeline</a>: Input pipeline provided by Stanford.</li>
+<li><a class="reference external" href="http://ischlag.github.io/2016/06/19/tensorflow-input-pipeline-example/">TensorFlow input pipeline example</a> : A working example.</li>
+<li><a class="reference external" href="https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/">TensorFlow Data Input</a> : TensorFlow Data Input: Placeholders, Protobufs &amp; Queues</li>
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/reading_data">Reading data</a>: The official documentation by the TensorFLow on how to read data</li>
+<li><a class="reference external" href="http://learningtensorflow.com/ReadingFilesBasic/">basics of reading a CSV file</a>: A tutorial on reading a CSV file</li>
+<li><a class="reference external" href="https://www.tensorflow.org/extend/new_data_formats">Custom Data Readers</a>: Official documentation on this how to define a reader.</li>
+</ul>
+</div>
+<div class="section" id="visual-resources">
+<h3>Visual resources<a class="headerlink" href="#visual-resources" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://www.youtube.com/watch?v=F503abjanHA">Tensorflow tutorial on TFRecords</a>: A tutorial on how to transform data into TFRecords</li>
+</ul>
+</div>
+</div>
+<div class="section" id="variables">
+<h2>Variables<a class="headerlink" href="#variables" title="Permalink to this headline">¶</a></h2>
+<p>Variables are supposed to hold the parameters and supercede by new values as the parameters are updated.
+Variables must be clearly set and initialezed.</p>
+<div class="section" id="id1">
+<h3>Written Resources<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="creation-initialization">
+<h4>Creation, Initialization<a class="headerlink" href="#creation-initialization" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/variables">Variables Creation and Initialization</a>: An official documentation on setting up variables</li>
+<li><a class="reference external" href="http://machinelearninguru.com/deep_learning/tensorflow/basics/variables/variables.html">Introduction to TensorFlow Variables - Creation and Initialization</a>: This tutorial deals with defining and initializing TensorFlow variables</li>
+<li><a class="reference external" href="http://learningtensorflow.com/lesson2/">Variables</a>: An introduction to variables</li>
+</ul>
+</div>
+<div class="section" id="saving-and-restoring">
+<h4>Saving and restoring<a class="headerlink" href="#saving-and-restoring" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/variables">Saving and Loading Variables</a>: The official documentation on saving and restoring variables</li>
+<li><a class="reference external" href="http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/">save and restore Tensorflow models</a>: A quick tutorial to save and restore Tensorflow models</li>
+</ul>
+</div>
+<div class="section" id="sharing-variables">
+<h4>Sharing Variables<a class="headerlink" href="#sharing-variables" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/variable_scope">Sharing Variables</a>: The official documetation on how to share variables</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id4">
+<h3>Visual Resources<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://www.youtube.com/watch?v=zgV-WzLyrYE">Deep Learning with Tensorflow - Tensors and Variables</a>: A Tensorflow tutorial for introducing Tensors, Variables and Placeholders</li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=UYyqNH3r4lk">Tensorflow Variables</a>: A quick introduction to TensorFlow variables</li>
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/variable_scope">Save and Restore in TensorFlow</a>: TensorFlow Tutorial on Save and Restore variables</li>
+</ul>
+</div>
+</div>
+<div class="section" id="tensorflow-utilities">
+<h2>TensorFlow Utilities<a class="headerlink" href="#tensorflow-utilities" title="Permalink to this headline">¶</a></h2>
+<p>Different utilities empower TensorFlow for faster computation in a more monotored manner.</p>
+<div class="section" id="id5">
+<h3>Written Resources<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="supervisor">
+<h4>Supervisor<a class="headerlink" href="#supervisor" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/supervisor">Supervisor - Training Helper for Days-Long Trainings</a>: The official documentation for TensorFLow Supervisor.</li>
+<li><a class="reference external" href="https://dev.widemeadows.de/2017/01/21/using-tensorflows-supervisor-with-tensorboard-summary-groups/">Using TensorFlow Supervisor with TensorBoard summary groups</a>: Using both TensorBoard and the Supervisor for profit</li>
+<li><a class="reference external" href="http://codata.colorado.edu/notebooks/tutorials/tensorflow_example_davis_yoshida/">Tensorflow example</a>: A TensorFlow example using Spervisor.</li>
+</ul>
+</div>
+<div class="section" id="tensorflow-debugger">
+<h4>TensorFlow Debugger<a class="headerlink" href="#tensorflow-debugger" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/debugger">TensorFlow Debugger (tfdbg) Command-Line-Interface Tutorial</a>: Official documentation for using debugger for MNIST</li>
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/tfdbg-tflearn">How to Use TensorFlow Debugger with tf.contrib.learn</a>: A more high-level method to use debugger.</li>
+<li><a class="reference external" href="https://github.com/wookayin/tensorflow-talk-debugging">Debugging TensorFlow Codes</a>: A Practical Guide for Debugging TensorFlow Codes</li>
+<li><a class="reference external" href="https://developers.googleblog.com/2017/02/debug-tensorflow-models-with-tfdbg.html">Debug TensorFlow Models with tfdbg</a>:  A tutorial by Google Developers Blog</li>
+</ul>
+</div>
+<div class="section" id="metagraphs">
+<h4>MetaGraphs<a class="headerlink" href="#metagraphs" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/programmers_guide/meta_graph">Exporting and Importing a MetaGraph</a>: Official TensorFlow documentation</li>
+<li><a class="reference external" href="http://www.seaandsailor.com/tensorflow-checkpointing.html">Model checkpointing using meta-graphs in TensorFlow</a>: A working example</li>
+</ul>
+</div>
+<div class="section" id="tensorboard">
+<h4>Tensorboard<a class="headerlink" href="#tensorboard" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><a class="reference external" href="https://www.tensorflow.org/get_started/summaries_and_tensorboard">TensorBoard - Visualizing Learning</a>: Official documentation by TensorFlow.</li>
+<li>` TensorFlow Ops`_: Provided by Stanford</li>
+<li><a class="reference external" href="http://learningtensorflow.com/Visualisation/">Visualisation with TensorBoard</a>: A tutorial on how to create and visualise a graph using TensorBoard</li>
+<li><a class="reference external" href="http://edwardlib.org/tutorials/tensorboard">Tensorboard</a>: A brief tutorial on Tensorboard</li>
+</ul>
+</div>
+</div>
+<div class="section" id="id7">
+<h3>Visual Resources<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://www.youtube.com/watch?v=eBbEDRsCmv4">Hands-on TensorBoard (TensorFlow Dev Summit 2017)</a>: An introduction to the amazing things you can do with TensorBoard</li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=3bownM3L5zM">Tensorboard Explained in 5 Min</a>: Providing the code for a simple handwritten character classifier in Python and visualizing it in Tensorboard</li>
+<li><a class="reference external" href="https://www.youtube.com/watch?v=fBVEXKp4DIc">How to Use Tensorboard</a>: Going through a bunch of different features in Tensorboard</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="tutorials.html" class="btn btn-neutral float-right" title="TensorFlow Tutorials" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="warmup.html" class="btn btn-neutral" title="Entrance to TensorFlow World" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2017, Amirsina Torfi.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'0.1.0',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>
