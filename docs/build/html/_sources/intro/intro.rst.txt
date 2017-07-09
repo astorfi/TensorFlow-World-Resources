@@ -40,9 +40,9 @@ Even if someone doesn't know what to look for, in the begining, the general reso
 been provided.
 
 
-=====================
-How to make the most
-=====================
+====================================
+How to make the most of this effort
+====================================
 
 The written and visual resources have been split. Moreover, As one can search
 in the documetation, the number of categories might look to be too much. For

@@ -23,9 +23,6 @@ extensions = [
 ]
 templates_path = ['_templates']
 
-edit_on_github_project = 'astorfi/reponame'
-edit_on_github_branch = 'master'
-
 source_suffix = ['.rst', '.md']
 # source_parsers = {
 #     '.md': CommonMarkParser,
