@@ -27,16 +27,16 @@ be overcame easily since they might be the issues of lots of other people consid
 What's the point of this open source project?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There other similar repositories similar to this reposity and are very
+There other similar repositories similar to this repository and are very
 comprehensive and useful and to be honest they they made me ponder if there is
 a necessity for this repository. A great example is `awesome-tensorflow <https://github.com/jtoy/awesome-tensorflow>`_
 repository which is a curated list of different TensorFlow resources.
 
 **The point of this repository is that the resources are being targeted**. The organization
 of the resources is such that the user can easily find the things he/she is looking for.
-We divided the resources to large number of categories that in the begining one may
+We divided the resources to a large number of categories that in the beginning one may
 have a headache!!! However, if someone knows what is being located, it is very easy to find the most related resources.
-Even if someone doesn't know what to look for, in the begining, the general resources have
+Even if someone doesn't know what to look for, in the beginning, the general resources have
 been provided.
 
 
@@ -45,5 +45,5 @@ How to make the most of this effort
 ====================================
 
 The written and visual resources have been split. Moreover, As one can search
-in the documetation, the number of categories might look to be too much. For
-finding the most relevent resources, please at first look through the general resourses.
+in the documentation, the number of categories might look to be too much. For
+finding the most relevant resources, please at first look through the general resources.
