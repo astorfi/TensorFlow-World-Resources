@@ -5,19 +5,39 @@ This section is dedicated to provide tutorial resources on the implementation of
 different models with TensorFlow.
 
 
-Linear Models
---------------
+Linear and Logistic Regression
+------------------------------
 
 
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-.. * `Title`_: some text
-.. .. _Title: link
+* `TensorFlow Linear Model Tutorial`_: Using TF.Learn API in TensorFlow to solve a binary classification problem
+* `Linear Regression in Tensorflow`_: Predicting house prices in Boston area
+* `Linear regression with Tensorflow`_: Make use of tensorflow for numeric computation using data flow graphs
+* `Logistic Regression in Tensorflow with SMOTE`_: Implementation of Logistic Regression in TensorFlow
+* `A TensorFlow Tutorial - Email Classification`_: Using a simple logistic regression classifier
+* `Linear Regression using TensorFlow`_: Training a linear model by TensorFlow
+* `Logistic Regression using TensorFlow`_: Training a logistic regression by TensorFlow for binary classification
+
+
+.. _TensorFlow Linear Model Tutorial: https://www.tensorflow.org/tutorials/wide
+.. _Linear Regression in Tensorflow: https://aqibsaeed.github.io/2016-07-07-TensorflowLR/
+.. _Linear regression with Tensorflow: https://www.linkedin.com/pulse/linear-regression-tensorflow-iv%C3%A1n-corrales-solera
+.. _Logistic Regression in Tensorflow with SMOTE: https://aqibsaeed.github.io/2016-08-10-logistic-regression-tf/
+.. _A TensorFlow Tutorial - Email Classification: http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
+.. _Linear Regression using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/linear_regression
+.. _Logistic Regression using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/logistic_regression
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
+
+* `Deep Learning with Tensorflow - Logistic Regression`_: A tutorial on Logistic Regression
+* `Deep Learning with Tensorflow - Linear Regression with TensorFlow`_: A tutorial on Linear Regression
+
+.. _Deep Learning with Tensorflow - Logistic Regression: https://www.youtube.com/watch?v=4cBRxZavvTo&t=1s
+.. _Deep Learning with Tensorflow - Linear Regression with TensorFlow: https://www.youtube.com/watch?v=zNalsMIB3NE
 
 
 
@@ -28,27 +48,66 @@ Convolutional Neural Networks
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-.. * `Title`_: some text
-.. .. _Title: link
+* `Convolutional Neural Networks`_: Official TensorFlow documentation
+* `Convolutional Neural Networks using TensorFlow`_: Training a classifier using convolutional neural networks
+* `Image classifier using convolutional neural network`_: Building a convolutional neural network based image classifier
+* `Convolutional Neural Network CNN with TensorFlow tutorial`_: It covers how to write a basic convolutional neural network within TensorFlow with Python
+* `Deep Learning CNNs in Tensorflow with GPUs`_: Designing the architecture of a convolutional neural network (CNN)
+
+
+.. _Convolutional Neural Networks: https://www.tensorflow.org/tutorials/deep_cnn
+.. _Convolutional Neural Networks using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/3-neural_network/convolutiona_neural_network
+.. _ Image classifier using convolutional neural network: http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+.. _Convolutional Neural Network CNN with TensorFlow tutorial: https://pythonprogramming.net/cnn-tensorflow-convolutional-nerual-network-machine-learning-tutorial/
+.. _Deep Learning CNNs in Tensorflow with GPUs: https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
+
+* `Deep Learning with Neural Networks`_: Convolutional Neural Networks with TensorFlow
+* `TensorFlow Tutorial`_: Convolutional Neural Network
+* `Understanding Convolution with TensorFlow`_: A tutorial on Convolution operation with TensorFlow
+* `Deep Learning with Tensorflow`_: Convolutional Network with TensorFlow
+
+.. _Deep Learning with Neural Networks: https://www.youtube.com/watch?v=mynJtLhhcXk
+.. _TensorFlow Tutorial: https://www.youtube.com/watch?v=HMcx-zY8JSg
+.. _Understanding Convolution with TensorFlow: https://www.youtube.com/watch?v=ETdaP_bBNWc
+.. _Deep Learning with Tensorflow: https://www.youtube.com/watch?v=yL-MkBSv18c
 
 
 Recurrent Neural Networks
 -------------------------
 
-
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-.. * `Title`_: some text
-.. .. _Title: link
+* `Recurrent Neural Networks`_: TensorFlow official documentation
+* `How to build a Recurrent Neural Network in TensorFlow `_: How to build a simple working Recurrent Neural Network in TensorFlow
+* `Recurrent Neural Networks in Tensorflow`_: Building a vanilla recurrent neural network (RNN) from the ground up in Tensorflow
+* `RNNs in Tensorflow - a Practical Guide and Undocumented Features`_: Going over some of the best practices for working with RNNs in Tensorflow
+* `RNN / LSTM cell example in TensorFlow and Python`_: Covering how to code a Recurrent Neural Network model with an LSTM in TensorFlow
+* `Sequence prediction using recurrent neural networks(LSTM) with TensorFlow`_: How to approximate a sequence of vectors using a recurrent neural networks
 
+.. _Recurrent Neural Networks: https://www.tensorflow.org/tutorials/recurrent
+.. _How to build a Recurrent Neural Network in TensorFlow : https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
+.. _Recurrent Neural Networks in Tensorflow: https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html
+.. _RNNs in Tensorflow - a Practical Guide and Undocumented Features: http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
+.. _RNN / LSTM cell example in TensorFlow and Python: https://pythonprogramming.net/rnn-tensorflow-python-machine-learning-tutorial/
+.. _Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
+
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
 
 
 Autoencoders
@@ -57,12 +116,29 @@ Autoencoders
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-.. * `Title`_: some text
-.. .. _Title: link
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
+
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
 
 
 Generative models
@@ -71,13 +147,29 @@ Generative models
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-.. * `Title`_: some text
-.. .. _Title: link
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
 
 Mutiple GPUs
 ------------
@@ -85,9 +177,26 @@ Mutiple GPUs
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-.. * `Title`_: some text
-.. .. _Title: link
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
+
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+* `Title`_: some text
+
+.. _Title: link
+.. _Title: link
+.. _Title: link
+.. _Title: link
