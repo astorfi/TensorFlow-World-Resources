@@ -27,8 +27,8 @@ Models
 ~~~~~~~
 
 * `TensorFlow Models`_: Machine learning models implemented in TensorFlow
-* `Tensorflow VGG16 and VGG19`_: Implemention of VGG 16 and VGG 19 based on tensorflow-vgg16 and Caffe to Tensorflow
-* `ResNet in TensorFlow`_: Implemenation of `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`_
+* `Tensorflow VGG16 and VGG19`_: Implementation of VGG 16 and VGG 19 based on tensorflow-vgg16 and Caffe to Tensorflow
+* `ResNet in TensorFlow`_: Implementation of `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`_
 * `Inception in TensorFlow`_: Train the Inception v3 architecture
 * `A TensorFlow implementation of DeepMind WaveNet paper`_: TensorFlow implementation of the `WaveNet generative neural network architecture <https://deepmind.com/blog/wavenet-generative-model-raw-audio/>`_ for audio generation
 * `3D Convolutional Neural Networks for Speaker Verification`_: Implementation of `3D Convolutional Neural Networks for Speaker Verification application <https://arxiv.org/abs/1705.09422>`_ in TensorFlow.
