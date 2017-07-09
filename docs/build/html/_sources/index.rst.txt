@@ -8,15 +8,24 @@ Welcome to TensoFlow-World-Resources's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Foreword
    
    README
    intro/intro
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Content
+   
    content/warmup
    content/howtocode
    content/tutorials
    content/projects
    content/books
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Document Credentials
 
 
 
