@@ -8,7 +8,7 @@ resources will be addressed.
 Installation
 -------------
 
-.. * `Title`_:Some text.
+.. * `Title`_: Some text.
 .. _Title: link
 
 First of all, the TensorFlow must be installed!
@@ -18,7 +18,7 @@ Written Resources
 
 * `Installing TensorFlow`_: Official TensorFLow installation
 * `Install TensorFlow from the source`_: A comprehensive guide on how to install TensorFlow from the source using python/anaconda
-* `TensorFlow Installation`_:A short TensorFlow installation guide powered by NVIDIA
+* `TensorFlow Installation`_: A short TensorFlow installation guide powered by NVIDIA
 * `7 SIMPLE STEPS TO INSTALL TENSORFLOW ON WINDOWS`_: A concise tutorial for installing TensorFlow on Windows
 
 .. _Installing TensorFlow: https://www.tensorflow.org/install/
@@ -34,7 +34,7 @@ Visual Resources
 * `Install TensorFlow on Ubuntu`_: A comprehensive tutorial on how to install TensorFlow on Ubuntu
 * `Installation of TensorFlow`_: The video covers how to setup TensorFlow
 * `Installing CPU and GPU TensorFlow on Windows`_: A tutorial on TensorFlow installation for Windows
-* `Installing the GPU version of TensorFlow for making use of your CUDA GPU`_: A gpu-targeted TensoFlow installation
+* `Installing the GPU version of TensorFlow for making use of your CUDA GPU`_: A GPU-targeted TensoFlow installation
 
 
 .. _Install TensorFlow on Ubuntu: https://www.youtube.com/watch?v=_3JFEPk4qQY&t=3s
@@ -57,7 +57,7 @@ This part points to resources on how to start to code with TensorFLow
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
-* `Getting Started With TensorFlow`_:This guide gets you started programming in TensorFlow
+* `Getting Started With TensorFlow`_: This guide gets you started programming in TensorFlow
 * `learning tensorflow`_:A great resource to start
 * `Welcome to TensorFlow World`_: A simple and concise start to TensorFLow
 

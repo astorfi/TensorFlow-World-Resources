@@ -28,8 +28,8 @@ What's the point of this open source project?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There other similar repositories similar to this repository and are very
-comprehensive and useful and to be honest they they made me ponder if there is
-a necessity for this repository. A great example is `awesome-tensorflow <https://github.com/jtoy/awesome-tensorflow>`_
+comprehensive and useful and to be honest they made me ponder if there is
+a necessity for this repository! A great example is `awesome-tensorflow <https://github.com/jtoy/awesome-tensorflow>`_
 repository which is a curated list of different TensorFlow resources.
 
 **The point of this repository is that the resources are being targeted**. The organization
