@@ -16,6 +16,7 @@ Welcome to TensoFlow-World-Resources's documentation!
    content/howtocode
    content/tutorials
    content/projects
+   content/books
 
 
 
