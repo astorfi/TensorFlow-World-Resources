@@ -10,7 +10,7 @@ The references here, deal with the details of programming and writing TensorFlow
 Reading data and input pipeline
 -------------------------------
 
-The first part is always how to prepare data and how to providing the pipeline to feed it to TensorFlow.
+The first part is always how to prepare data and how to provide the pipeline to feed it to TensorFlow.
 Usually providing the input pipeline can be complicated, even more than the structure design!
 
 
@@ -19,8 +19,8 @@ Written resources
 
 * `Dataset API for TensorFlow Input Pipelines`_: A TensorFlow official documentation on *Using the Dataset API for TensorFlow Input Pipelines*
 * `TesnowFlow input pipeline`_: Input pipeline provided by Stanford.
-* `TensorFlow input pipeline example`_ : A working example.
-* `TensorFlow Data Input`_ : TensorFlow Data Input: Placeholders, Protobufs & Queues
+* `TensorFlow input pipeline example`_: A working example.
+* `TensorFlow Data Input`_: TensorFlow Data Input: Placeholders, Protobufs & Queues
 * `Reading data`_: The official documentation by the TensorFLow on how to read data
 * `basics of reading a CSV file`_: A tutorial on reading a CSV file
 * `Custom Data Readers`_: Official documentation on this how to define a reader.
@@ -44,8 +44,8 @@ Visual resources
 Variables
 ----------
 
-Variables are supposed to hold the parameters and supercede by new values as the parameters are updated.
-Variables must be clearly set and initialezed.
+Variables are supposed to hold the parameters and supersede by new values as the parameters are updated.
+Variables must be clearly set and initialized.
 
 
 Written Resources
@@ -75,7 +75,7 @@ Saving and restoring
 Sharing Variables
 ^^^^^^^^^^^^^^^^^
 
-* `Sharing Variables`_: The official documetation on how to share variables
+* `Sharing Variables`_: The official documentation on how to share variables
 
 .. _Sharing Variables: https://www.tensorflow.org/programmers_guide/variable_scope
 
@@ -95,7 +95,7 @@ Visual Resources
 TensorFlow Utilities
 --------------------
 
-Different utilities empower TensorFlow for faster computation in a more monotored manner.
+Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
 Written Resources
 ~~~~~~~~~~~~~~~~~
@@ -105,10 +105,10 @@ Supervisor
 
 * `Supervisor - Training Helper for Days-Long Trainings`_: The official documentation for TensorFLow Supervisor.
 * `Using TensorFlow Supervisor with TensorBoard summary groups`_: Using both TensorBoard and the Supervisor for profit
-* `Tensorflow example`_: A TensorFlow example using Spervisor.
+* `Tensorflow example`_: A TensorFlow example using Supervisor.
 
 
-.. _Supervisor - Training Helper for Days-Long Trainings: https://www.tensorflow.org/programmers_guide/supervisor
+.. _Supervisor - Training Helper for Days-Long Training: https://www.tensorflow.org/programmers_guide/supervisor
 .. _Using TensorFlow Supervisor with TensorBoard summary groups: https://dev.widemeadows.de/2017/01/21/using-tensorflows-supervisor-with-tensorboard-summary-groups/
 .. _Tensorflow example: http://codata.colorado.edu/notebooks/tutorials/tensorflow_example_davis_yoshida/
 
@@ -117,7 +117,7 @@ TensorFlow Debugger
 ^^^^^^^^^^^^^^^^^^^
 
 * `TensorFlow Debugger (tfdbg) Command-Line-Interface Tutorial`_: Official documentation for using debugger for MNIST
-* `How to Use TensorFlow Debugger with tf.contrib.learn`_: A more high-level method to use debugger.
+* `How to Use TensorFlow Debugger with tf.contrib.learn`_: A more high-level method to use the debugger.
 * `Debugging TensorFlow Codes`_: A Practical Guide for Debugging TensorFlow Codes
 * `Debug TensorFlow Models with tfdbg`_:  A tutorial by Google Developers Blog
 
@@ -142,7 +142,7 @@ Tensorboard
 
 * `TensorBoard - Visualizing Learning`_: Official documentation by TensorFlow.
 * ` TensorFlow Ops`_: Provided by Stanford
-* `Visualisation with TensorBoard`_: A tutorial on how to create and visualise a graph using TensorBoard
+* `Visualisation with TensorBoard`_: A tutorial on how to create and visualize a graph using TensorBoard
 * `Tensorboard`_: A brief tutorial on Tensorboard
 
 .. _TensorBoard - Visualizing Learning: https://www.tensorflow.org/get_started/summaries_and_tensorboard
