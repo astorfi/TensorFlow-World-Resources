@@ -148,29 +148,19 @@ Generative models
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
+* `Generative Adversarial Nets in TensorFlow`_: Implementing GAN using TensorFlow, with MNIST data
+* `Generative Adversarial Networks`_: A working example of Generative Adversarial Networks
 
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
+.. _Generative Adversarial Nets in TensorFlow: http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
+.. _Generative Adversarial Networks: http://edwardlib.org/tutorials/gan
 
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
+* `TensorFlow Tutorial - Adversarial Examples`_: A tutorial on a working example for generative models
 
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
+.. _TensorFlow Tutorial - Adversarial Examples: link
 
 Mutiple GPUs
 ------------
@@ -178,26 +168,8 @@ Mutiple GPUs
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
+* `Using GPUs`_: Official TensorFlow documentation
+* `Deep Learning with Multiple GPUs on Rescale`_: TensorFlow Tutorial
 
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
-
-
-Visual Resources
-~~~~~~~~~~~~~~~~~
-
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
+.. _Using GPUs: https://www.tensorflow.org/tutorials/using_gpu
+.. _Deep Learning with Multiple GPUs on Rescale: https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-tensorflow/
