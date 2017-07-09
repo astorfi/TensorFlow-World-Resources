@@ -101,15 +101,18 @@ Written Resources
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
-* `Title`_: some text
+* `Deep Learning with Neural Networks and TensorFlow`_: Recurrent Neural Networks (RNN)
+* `An Introduction to LSTMs in Tensorflow`_: A brief tutorial
+* `Deep Learning with Tensorflow - The Recurrent Neural Network Model`_: A tutorial on the Recurrent Neural Network models
+* `Sequence Models and the RNN API `_: TensorFlow Dev Summit 2017
+* `RNN Example in Tensorflow`_: A quick tutorial
 
-.. _Title: link
-.. _Title: link
-.. _Title: link
-.. _Title: link
+.. _Deep Learning with Neural Networks and TensorFlow: https://www.youtube.com/watch?v=hWgGJeAvLws
+.. _An Introduction to LSTMs in Tensorflow: https://www.youtube.com/watch?v=l4X-kZjl1gs
+.. _Deep Learning with Tensorflow - The Recurrent Neural Network Model: https://www.youtube.com/watch?v=C0xoB8L8ms0&t=89s
+.. _Sequence Models and the RNN API : https://www.youtube.com/watch?v=RIR_-Xlbp7s
+.. _RNN Example in Tensorflow: https://www.youtube.com/watch?v=dFARw8Pm0Gk
+
 
 
 Autoencoders
