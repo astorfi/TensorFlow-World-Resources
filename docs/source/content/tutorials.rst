@@ -88,6 +88,7 @@ Written Resources
 * `RNNs in Tensorflow - a Practical Guide and Undocumented Features`_: Going over some of the best practices for working with RNNs in Tensorflow
 * `RNN / LSTM cell example in TensorFlow and Python`_: Covering how to code a Recurrent Neural Network model with an LSTM in TensorFlow
 * `Sequence prediction using recurrent neural networks(LSTM) with TensorFlow`_: How to approximate a sequence of vectors using a recurrent neural networks
+* `TensorFlow RNN Tutorial`_: Recurrent Neural Networks for exploring time series and developing speech recognition capabilities
 
 .. _Recurrent Neural Networks: https://www.tensorflow.org/tutorials/recurrent
 .. _How to build a Recurrent Neural Network in TensorFlow : https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
@@ -95,6 +96,7 @@ Written Resources
 .. _RNNs in Tensorflow - a Practical Guide and Undocumented Features: http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
 .. _RNN / LSTM cell example in TensorFlow and Python: https://pythonprogramming.net/rnn-tensorflow-python-machine-learning-tutorial/
 .. _Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html
+.. _TensorFlow RNN Tutorial: https://svds.com/tensorflow-rnn-tutorial/
 
 Visual Resources
 ~~~~~~~~~~~~~~~~~
