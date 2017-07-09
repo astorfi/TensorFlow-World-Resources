@@ -35,7 +35,7 @@ Books
 * `Machine Learning with TensorFlow`_: Tackle common commercial machine learning problems with Google’s TensorFlow library
 * `Getting Started with TensorFlow`_: An easy-to-understand book on TensorFlow
 * `Hands-On Machine Learning with Scikit-Learn and TensorFlow`_: By using examples, theory, the book help to gain an understanding of the machine learning concepts
-* `title`_: desc
+* `Machine Learning with TensorFlow`_: An introduction to the concepts of TensorFlow
 
 .. _TensorFlow Machine Learning Cookbook: https://www.amazon.com/dp/B01HY3TC54/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 .. _Deep Learning with TensorFlow: https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow
@@ -45,4 +45,4 @@ Books
 .. _Machine Learning with TensorFlow: https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow
 .. _Getting Started with TensorFlow: https://www.amazon.com/Getting-Started-TensorFlow-Giancarlo-Zaccone-ebook/dp/B01H1JD6JO
 .. _Hands-On Machine Learning with Scikit-Learn and TensorFlow: http://shop.oreilly.com/product/0636920052289.do
-.. _title: link
+.. _Machine Learning with TensorFlow: https://www.manning.com/books/machine-learning-with-tensorflow
