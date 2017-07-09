@@ -10,7 +10,6 @@ Welcome to TensoFlow-World-Resources's documentation!
    :maxdepth: 2
    :caption: Foreword
    
-   README
    intro/intro
 
 .. toctree::
