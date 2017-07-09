@@ -4,9 +4,9 @@ Introduction
 The purpose of this project is to introduce a shortcut to developers and researcher
 for finding useful resources about TensorFlow.
 
-============
+-----------
 Motivation
-============
+-----------
 
 There are different motivations for this open source project.
 
@@ -40,9 +40,9 @@ Even if someone doesn't know what to look for, in the beginning, the general res
 been provided.
 
 
-====================================
+------------------------------------
 How to make the most of this effort
-====================================
+------------------------------------
 
 The written and visual resources have been split. Moreover, As one can search
 in the documentation, the number of categories might look to be too much. For
