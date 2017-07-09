@@ -32,9 +32,9 @@ Books
 * `First contact with TensorFlow`_: An online book on TensorFlow
 * `Building Machine Learning Projects with TensorFlow`_: Learn how to implement TensorFlow in production
 * `Learning TensorFlow`_: This book is an end-to-end guide to TensorFlow
-* `title`_: desc
-* `title`_: desc
-* `title`_: desc
+* `Machine Learning with TensorFlow`_: Tackle common commercial machine learning problems with Google’s TensorFlow library
+* `Getting Started with TensorFlow`_: An easy-to-understand book on TensorFlow
+* `Hands-On Machine Learning with Scikit-Learn and TensorFlow`_: By using examples, theory, the book help to gain an understanding of the machine learning concepts
 * `title`_: desc
 
 .. _TensorFlow Machine Learning Cookbook: https://www.amazon.com/dp/B01HY3TC54/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
@@ -42,7 +42,7 @@ Books
 .. _First contact with TensorFlow: http://jorditorres.org/first-contact-with-tensorflow/
 .. _Building Machine Learning Projects with TensorFlow: https://www.amazon.com/dp/B01M2Z8FS4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 .. _Learning TensorFlow: http://shop.oreilly.com/product/0636920063698.do
-.. _title: link
-.. _title: link
-.. _title: link
+.. _Machine Learning with TensorFlow: https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow
+.. _Getting Started with TensorFlow: https://www.amazon.com/Getting-Started-TensorFlow-Giancarlo-Zaccone-ebook/dp/B01H1JD6JO
+.. _Hands-On Machine Learning with Scikit-Learn and TensorFlow: http://shop.oreilly.com/product/0636920052289.do
 .. _title: link
