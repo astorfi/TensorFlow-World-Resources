@@ -59,8 +59,6 @@ resources will be addressed.
 Installation
 -------------
 
-.. * `Title`_: Some text.
-.. _Title: link
 
 First of all, the TensorFlow must be installed!
 
@@ -100,11 +98,6 @@ Getting Started
 This part points to resources on how to start to code with TensorFLow
 
 
-.. * :ref:`in-rst`
-.. * :ref:`in-markdown`
-
-.. _in-rst:
-
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
@@ -132,6 +125,7 @@ Going Deeper in TensorFLow
 
 Advanced machine learning users can go deeper in TensorFlow in order to
 *hit the root*. Scratching the surface may never take us too further!
+
 
 Written Resources
 ~~~~~~~~~~~~~~~~~~
