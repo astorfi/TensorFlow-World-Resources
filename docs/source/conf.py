@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.abspath('_ext'))
 
 sys.path.insert(0, os.path.abspath('..'))
 sys.path.append(os.path.dirname(__file__))
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "readthedocs.settings.dev")
+# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "readthedocs.settings.dev")
 
 # from django.conf import settings
 
@@ -19,7 +19,6 @@ sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
-    'edit_on_github',
 ]
 templates_path = ['_templates']
 
@@ -72,6 +71,15 @@ html_theme_options = {
     'display_version': False,
 }
 
+github_url='https://github.com/astorfi/TensorFlow-World-Resources'
 
-def setup(app):
-    app.add_stylesheet('custom.css')
+html_context = {
+"display_github": True, # Add 'Edit on Github' link instead of 'View page source'
+"last_updated": True,
+"commit": False,
+ 'github_url': 'https://github.com/astorfi/TensorFlow-World-Resources'
+}
+
+
+#def setup(app):
+#     app.add_stylesheet('custom.css')
