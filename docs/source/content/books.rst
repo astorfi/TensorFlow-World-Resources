@@ -1,7 +1,7 @@
 Published Resources
 ===================
 
-This section is dedicated to provide published resources on TensorFlow, Such as websites, blogs and books.
+This section is dedicated to provide published resources on TensorFlow, Such as websites, blogs, and books.
 
 
 
