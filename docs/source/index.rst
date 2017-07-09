@@ -26,6 +26,9 @@ Welcome to TensoFlow-World-Resources's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Document Credentials
+   credentials/CODE_OF_CONDUCT.md
+   credentials/CONTRIBUTING.rst
+   credentials/LICENSE
 
 
 
