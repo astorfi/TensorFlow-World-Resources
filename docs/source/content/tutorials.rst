@@ -163,7 +163,7 @@ Visual Resources
 .. _TensorFlow Tutorial - Adversarial Examples: link
 
 Multiple GPUs
-------------
+-------------
 
 Written Resources
 ~~~~~~~~~~~~~~~~~
