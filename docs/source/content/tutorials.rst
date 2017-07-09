@@ -91,7 +91,7 @@ Written Resources
 * `TensorFlow RNN Tutorial`_: Recurrent Neural Networks for exploring time series and developing speech recognition capabilities
 
 .. _Recurrent Neural Networks: https://www.tensorflow.org/tutorials/recurrent
-.. _How to build a Recurrent Neural Network in TensorFlow : https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
+.. _How to build a Recurrent Neural Network in TensorFlow: https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
 .. _Recurrent Neural Networks in Tensorflow: https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html
 .. _RNNs in Tensorflow - a Practical Guide and Undocumented Features: http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
 .. _RNN / LSTM cell example in TensorFlow and Python: https://pythonprogramming.net/rnn-tensorflow-python-machine-learning-tutorial/
@@ -103,7 +103,7 @@ Visual Resources
 
 * `Deep Learning with Neural Networks and TensorFlow`_: Recurrent Neural Networks (RNN)
 * `An Introduction to LSTMs in Tensorflow`_: A brief tutorial
-* `Deep Learning with Tensorflow - The Recurrent Neural Network Model`_: A tutorial on the Recurrent Neural Network models
+* `Deep Learning with Tensorflow - The Recurrent Neural Network Model`_: A tutorial on the Recurrent Neural Network Models
 * `Sequence Models and the RNN API`_: TensorFlow Dev Summit 2017
 * `RNN Example in Tensorflow`_: A quick tutorial
 
@@ -136,7 +136,7 @@ Visual Resources
 ~~~~~~~~~~~~~~~~~
 
 * `Deep Learning with Tensorflow - Autoencoder Structure`_: Tutorial on Autoencoder models
-* `Deep Learning with Tensorflow - RBMs and Autoencoders`_: Tutorial on Restricted Boltzman machines and AEs
+* `Deep Learning with Tensorflow - RBMs and Autoencoders`_: Tutorial on Restricted Boltzmann machines and AEs
 
 .. _Deep Learning with Tensorflow - Autoencoder Structure: https://www.youtube.com/watch?v=H_Bi_PQWJJc
 .. _Deep Learning with Tensorflow - RBMs and Autoencoders: https://www.youtube.com/watch?v=FsAvo0E5Pmw
@@ -162,7 +162,7 @@ Visual Resources
 
 .. _TensorFlow Tutorial - Adversarial Examples: link
 
-Mutiple GPUs
+Multiple GPUs
 ------------
 
 Written Resources
