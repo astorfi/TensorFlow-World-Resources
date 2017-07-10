@@ -1,3 +1,12 @@
+.. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
+    :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
+.. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
+    :target: https://github.com/astorfi/TensorFlow-World-Resources/pulls
+.. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
+    :target: https://github.com/ellerbrock/open-source-badge/
+.. image:: https://coveralls.io/repos/github/astorfi/TensorFlow-World-Resources/badge.svg?branch=master
+    :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
+
 ============
 Introduction
 ============
