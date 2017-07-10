@@ -1,13 +1,13 @@
-====================
+===================
 TensorFlow Projects
-====================
+===================
 
 This section is dedicated to provide resources that are mainly open source projects developed by TensorFlow.
 Those might be comprehensive tutorials on working example.
 
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 Comprehensive Tutorials
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 * `TensorFlow-World`_: Concise and ready-to-use TensorFlow tutorials with detailed documentation
 * `TensorFlow-Tutorials`_: Introduction to deep learning based on Google's TensorFlow framework
@@ -23,9 +23,9 @@ Comprehensive Tutorials
 .. _Tensorflow Tutorials using Jupyter Notebook: https://github.com/sjchoi86/Tensorflow-101
 .. _TensorFlow for Deep Learning Research: https://github.com/chiphuyen/tf-stanford-tutorials
 
-~~~~~~~
+------
 Models
-~~~~~~~
+------
 
 * `TensorFlow Models`_: Machine learning models implemented in TensorFlow
 * `Tensorflow VGG16 and VGG19`_: Implementation of VGG 16 and VGG 19 based on tensorflow-vgg16 and Caffe to Tensorflow

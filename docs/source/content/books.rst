@@ -1,3 +1,4 @@
+===================
 Published Resources
 ===================
 
@@ -5,7 +6,7 @@ This section is dedicated to provide published resources on TensorFlow, Such as 
 
 
 
-
+---------------------------------
 Online Courses and Documentations
 ---------------------------------
 
@@ -23,9 +24,9 @@ Online Courses and Documentations
 
 
 
-
+------
 Books
----------------------------------
+------
 
 * `TensorFlow Machine Learning Cookbook`_: Quick guide to implementing TensorFlow in your day-to-day machine learning activities
 * `Deep Learning with TensorFlow`_: Throughout the book, you’ll learn how to implement deep learning algorithms for machine learning systems
