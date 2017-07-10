@@ -14,7 +14,7 @@ TensorFlow-World-Resources - `Project Page`_
     :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
 
 
-.. contents::
+.. contents:: Table of Contents
   :local:
   :depth: 3
   
