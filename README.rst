@@ -121,9 +121,6 @@ Advanced machine learning users can go deeper in TensorFlow in order to
 * `We Need to Go Deeper`_: A Practical Guide to Tensorflow and Inception
 * `Wide and Deep Learning - Better Together with TensorFlow`_: A tutorial by Google Research Blog
 
-
-
-
 .. _TensorFlow Mechanics: https://www.tensorflow.org/get_started/mnist/mechanics
 .. _Advanced TensorFlow: https://github.com/sjchoi86/advanced-tensorflow
 .. _We Need to Go Deeper: https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f
@@ -188,9 +185,9 @@ Variables are supposed to hold the parameters and supersede by new values as the
 Variables must be clearly set and initialized.
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~
 Creation, Initialization
-^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `Variables Creation and Initialization`_: An official documentation on setting up variables
 * `Introduction to TensorFlow Variables - Creation and Initialization`_: This tutorial deals with defining and initializing TensorFlow variables
@@ -200,9 +197,9 @@ Creation, Initialization
 .. _Introduction to TensorFlow Variables - Creation and Initialization: http://machinelearninguru.com/deep_learning/tensorflow/basics/variables/variables.html
 .. _Variables: http://learningtensorflow.com/lesson2/
 
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 Saving and restoring
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 * `Saving and Loading Variables`_: The official documentation on saving and restoring variables
 * `save and restore Tensorflow models`_: A quick tutorial to save and restore Tensorflow models
@@ -210,9 +207,9 @@ Saving and restoring
 .. _Saving and Loading Variables: https://www.tensorflow.org/programmers_guide/variables
 .. _save and restore Tensorflow models: http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
 
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 Sharing Variables
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 * `Sharing Variables`_: The official documentation on how to share variables
 
@@ -233,9 +230,9 @@ TensorFlow Utilities
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
 
-^^^^^^^^^^
+~~~~~~~~~~
 Supervisor
-^^^^^^^^^^
+~~~~~~~~~~
 
 * `Supervisor - Training Helper for Days-Long Trainings`_: The official documentation for TensorFLow Supervisor.
 * `Using TensorFlow Supervisor with TensorBoard summary groups`_: Using both TensorBoard and the Supervisor for profit
@@ -246,9 +243,9 @@ Supervisor
 .. _Using TensorFlow Supervisor with TensorBoard summary groups: https://dev.widemeadows.de/2017/01/21/using-tensorflows-supervisor-with-tensorboard-summary-groups/
 .. _Tensorflow example: http://codata.colorado.edu/notebooks/tutorials/tensorflow_example_davis_yoshida/
 
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 TensorFlow Debugger
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 * `TensorFlow Debugger (tfdbg) Command-Line-Interface Tutorial`_: Official documentation for using debugger for MNIST
 * `How to Use TensorFlow Debugger with tf.contrib.learn`_: A more high-level method to use the debugger.
@@ -261,9 +258,9 @@ TensorFlow Debugger
 .. _Debugging TensorFlow Codes: https://github.com/wookayin/tensorflow-talk-debugging
 .. _Debug TensorFlow Models with tfdbg: https://developers.googleblog.com/2017/02/debug-tensorflow-models-with-tfdbg.html
 
-^^^^^^^^^^
+~~~~~~~~~~
 MetaGraphs
-^^^^^^^^^^
+~~~~~~~~~~
 
 * `Exporting and Importing a MetaGraph`_: Official TensorFlow documentation
 * `Model checkpointing using meta-graphs in TensorFlow`_: A working example
@@ -271,9 +268,9 @@ MetaGraphs
 .. _Exporting and Importing a MetaGraph: https://www.tensorflow.org/programmers_guide/meta_graph
 .. _Model checkpointing using meta-graphs in TensorFlow: http://www.seaandsailor.com/tensorflow-checkpointing.html
 
-^^^^^^^^^^^
+~~~~~~~~~~~
 Tensorboard
-^^^^^^^^^^^
+~~~~~~~~~~~
 
 * `TensorBoard - Visualizing Learning`_: Official documentation by TensorFlow.
 * `TensorFlow Ops`_: Provided by Stanford
