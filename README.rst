@@ -4,6 +4,8 @@ TensorFlow-World-Resources - `Project Page`_
 ********************************************
 .. _Project Page: http://tensorflow-world-resources.readthedocs.io/en/latest/
 
+.. image:: _img/mainpage/TensorFlow_World.gif
+
 .. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
     :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
@@ -27,7 +29,7 @@ Introduction
 The purpose of this project is to introduce a shortcut to developers and researcher
 for finding useful resources about TensorFlow.
 
-.. image:: _img/mainpage/TensorFlow_World.gif
+
 
 -----------
 Motivation
