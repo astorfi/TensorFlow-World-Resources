@@ -5,6 +5,8 @@ Introduction
 The purpose of this project is to introduce a shortcut to developers and researcher
 for finding useful resources about TensorFlow.
 
+.. image:: _img/mainpage/TensorFlow_World.gif
+
 -----------
 Motivation
 -----------
