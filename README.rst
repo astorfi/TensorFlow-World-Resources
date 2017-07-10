@@ -199,9 +199,9 @@ Creation, Initialization
 .. _Introduction to TensorFlow Variables - Creation and Initialization: http://machinelearninguru.com/deep_learning/tensorflow/basics/variables/variables.html
 .. _Variables: http://learningtensorflow.com/lesson2/
 
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 Saving and restoring
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 * `Saving and Loading Variables`_: The official documentation on saving and restoring variables
 * `save and restore Tensorflow models`_: A quick tutorial to save and restore Tensorflow models
