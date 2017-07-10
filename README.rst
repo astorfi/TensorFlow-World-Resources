@@ -102,12 +102,12 @@ This part points to resources on how to start to code with TensorFLow
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
-* `Getting Started With TensorFlow`_: This guide gets you started programming in TensorFlow
-* `learning tensorflow`_:A great resource to start
+* `Getting Started With TensorFlow Framework`_: This guide gets you started programming in TensorFlow
+* `learning TensorFlow Deep Learning`_:A great resource to start
 * `Welcome to TensorFlow World`_: A simple and concise start to TensorFLow
 
-.. _learning tensorflow: http://learningtensorflow.com/getting_started/
-.. _Getting Started With TensorFlow: https://www.tensorflow.org/get_started/get_started
+.. _learning TensorFlow Deep Learning: http://learningtensorflow.com/getting_started/
+.. _Getting Started With TensorFlow Framework: https://www.tensorflow.org/get_started/get_started
 .. _Welcome to TensorFlow World: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/0-welcome
 
 ~~~~~~~~~~~~~~~~
