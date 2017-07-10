@@ -527,3 +527,21 @@ TensorFlow Projects
 
 This section is dedicated to provide resources that are mainly open source projects developed by TensorFlow.
 Those might be comprehensive tutorials on working example.
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Comprehensive Tutorials
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* `TensorFlow-World`_: Concise and ready-to-use TensorFlow tutorials with detailed documentation
+* `TensorFlow-Tutorials`_: Introduction to deep learning based on Google's TensorFlow framework
+* `TensorFlow Tutorials`_: Organized tutorials in TensorFlow
+* `TensorFlow-Examples`_: Providing working examples in TensorFlow
+* `Tensorflow Tutorials using Jupyter Notebook`_: TensorFlow tutorials written in Python plus Jupyter Notebook
+* `TensorFlow for Deep Learning Research`_: Code examples for the Stanford course CS 20SI
+
+.. _TensorFlow-World: https://github.com/astorfi/TensorFlow-World
+.. _TensorFlow-Tutorials: https://github.com/nlintz/TensorFlow-Tutorials
+.. _TensorFlow Tutorials: https://github.com/Hvass-Labs/TensorFlow-Tutorials
+.. _TensorFlow-Examples: https://github.com/aymericdamien/TensorFlow-Examples
+.. _Tensorflow Tutorials using Jupyter Notebook: https://github.com/sjchoi86/Tensorflow-101
+.. _TensorFlow for Deep Learning Research: https://github.com/chiphuyen/tf-stanford-tutorials
