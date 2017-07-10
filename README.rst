@@ -315,12 +315,12 @@ Tensorboard
 ^^^^^^^^^^^
 
 * `TensorBoard - Visualizing Learning`_: Official documentation by TensorFlow.
-* ` TensorFlow Ops`_: Provided by Stanford
+* `TensorFlow Ops`_: Provided by Stanford
 * `Visualisation with TensorBoard`_: A tutorial on how to create and visualize a graph using TensorBoard
 * `Tensorboard`_: A brief tutorial on Tensorboard
 
 .. _TensorBoard - Visualizing Learning: https://www.tensorflow.org/get_started/summaries_and_tensorboard
-.. _ TensorFlow Ops: http://web.stanford.edu/class/cs20si/lectures/notes_02.pdf
+.. _TensorFlow Ops: http://web.stanford.edu/class/cs20si/lectures/notes_02.pdf
 .. _Visualisation with TensorBoard: http://learningtensorflow.com/Visualisation/
 .. _Tensorboard: http://edwardlib.org/tutorials/tensorboard
 
