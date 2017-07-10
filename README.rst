@@ -207,3 +207,56 @@ Visual resources
 * `Tensorflow tutorial on TFRecords`_: A tutorial on how to transform data into TFRecords
 
 .. _Tensorflow tutorial on TFRecords: https://www.youtube.com/watch?v=F503abjanHA
+
+----------
+Variables
+----------
+
+Variables are supposed to hold the parameters and supersede by new values as the parameters are updated.
+Variables must be clearly set and initialized.
+
+~~~~~~~~~~~~~~~~~
+Written Resources
+~~~~~~~~~~~~~~~~~
+
+^^^^^^^^^^^^^^^^^^^^^^^^
+Creation, Initialization
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Variables Creation and Initialization`_: An official documentation on setting up variables
+* `Introduction to TensorFlow Variables - Creation and Initialization`_: This tutorial deals with defining and initializing TensorFlow variables
+* `Variables`_: An introduction to variables
+
+.. _Variables Creation and Initialization: https://www.tensorflow.org/programmers_guide/variables
+.. _Introduction to TensorFlow Variables - Creation and Initialization: http://machinelearninguru.com/deep_learning/tensorflow/basics/variables/variables.html
+.. _Variables: http://learningtensorflow.com/lesson2/
+
+^^^^^^^^^^^^^^^^^^^^^
+Saving and restoring
+^^^^^^^^^^^^^^^^^^^^^
+
+* `Saving and Loading Variables`_: The official documentation on saving and restoring variables
+* `save and restore Tensorflow models`_: A quick tutorial to save and restore Tensorflow models
+
+.. _Saving and Loading Variables: https://www.tensorflow.org/programmers_guide/variables
+.. _save and restore Tensorflow models: http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
+
+^^^^^^^^^^^^^^^^^
+Sharing Variables
+^^^^^^^^^^^^^^^^^
+
+* `Sharing Variables`_: The official documentation on how to share variables
+
+.. _Sharing Variables: https://www.tensorflow.org/programmers_guide/variable_scope
+
+~~~~~~~~~~~~~~~~~
+Visual Resources
+~~~~~~~~~~~~~~~~~
+
+* `Deep Learning with Tensorflow - Tensors and Variables`_: A Tensorflow tutorial for introducing Tensors, Variables and Placeholders
+* `Tensorflow Variables`_: A quick introduction to TensorFlow variables
+* `Save and Restore in TensorFlow`_: TensorFlow Tutorial on Save and Restore variables
+
+.. _Deep Learning with Tensorflow - Tensors and Variables: https://www.youtube.com/watch?v=zgV-WzLyrYE
+.. _Tensorflow Variables: https://www.youtube.com/watch?v=UYyqNH3r4lk
+.. _Save and Restore in TensorFlow: https://www.tensorflow.org/programmers_guide/variable_scope
