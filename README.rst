@@ -1,6 +1,7 @@
-**************************
-TensorFlow-World-Resources
-**************************
+********************************************
+TensorFlow-World-Resources - `Project Page`_
+********************************************
+.. _Project Page: http://tensorflow-world-resources.readthedocs.io/en/latest/
 
 .. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
     :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
