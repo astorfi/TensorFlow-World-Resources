@@ -114,7 +114,7 @@ Supervisor
 * `Tensorflow example`_: A TensorFlow example using Supervisor.
 
 
-.. _Supervisor - Training Helper for Days-Long Training: https://www.tensorflow.org/programmers_guide/supervisor
+.. _Supervisor - Training Helper for Days-Long Trainings: https://www.tensorflow.org/programmers_guide/supervisor
 .. _Using TensorFlow Supervisor with TensorBoard summary groups: https://dev.widemeadows.de/2017/01/21/using-tensorflows-supervisor-with-tensorboard-summary-groups/
 .. _Tensorflow example: http://codata.colorado.edu/notebooks/tutorials/tensorflow_example_davis_yoshida/
 
