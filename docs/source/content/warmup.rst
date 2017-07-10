@@ -1,18 +1,17 @@
+============================
 Entrance to TensorFlow World
 ============================
 
 In this section, different TensorFlow topics and their associated
 resources will be addressed.
 
-
+-------------
 Installation
 -------------
 
-.. * `Title`_: Some text.
-.. _Title: link
-
 First of all, the TensorFlow must be installed!
 
+~~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
@@ -27,7 +26,7 @@ Written Resources
 .. _7 SIMPLE STEPS TO INSTALL TENSORFLOW ON WINDOWS: http://saintlad.com/install-tensorflow-on-windows/
 
 
-
+~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~
 
@@ -42,18 +41,13 @@ Visual Resources
 .. _Installing CPU and GPU TensorFlow on Windows: https://www.youtube.com/watch?v=r7-WPbx8VuY
 .. _Installing the GPU version of TensorFlow for making use of your CUDA GPU: https://www.youtube.com/watch?v=io6Ajf5XkaM
 
-
+---------------
 Getting Started
 ---------------
 
 This part points to resources on how to start to code with TensorFLow
 
-
-.. * :ref:`in-rst`
-.. * :ref:`in-markdown`
-
-.. _in-rst:
-
+~~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
@@ -65,6 +59,7 @@ Written Resources
 .. _Getting Started With TensorFlow: https://www.tensorflow.org/get_started/get_started
 .. _Welcome to TensorFlow World: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/0-welcome
 
+~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~
 
@@ -75,13 +70,15 @@ Visual Resources
 * `Deep Learning with Neural Networks and TensorFlow Introduction  <https://www.youtube.com/watch?v=oYbVFhK_olY>`_
 * `A fast with TensorFlow <https:/www.youtube.com/watch?v=Q-FF_0NAT3s>`_
 
-
+--------------------------
 Going Deeper in TensorFLow
 --------------------------
 
 Advanced machine learning users can go deeper in TensorFlow in order to
 *hit the root*. Scratching the surface may never take us too further!
 
+
+~~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~~
 
@@ -99,7 +96,7 @@ Written Resources
 .. _Wide and Deep Learning - Better Together with TensorFlow: https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
 
 
-
+~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~
 

@@ -1,3 +1,4 @@
+============================
 Programming with TensorFlow
 ============================
 
@@ -6,14 +7,14 @@ Programming with TensorFlow
 
 The references here, deal with the details of programming and writing TensorFlow code.
 
-
+-------------------------------
 Reading data and input pipeline
 -------------------------------
 
 The first part is always how to prepare data and how to provide the pipeline to feed it to TensorFlow.
 Usually providing the input pipeline can be complicated, even more than the structure design!
 
-
+~~~~~~~~~~~~~~~~~
 Written resources
 ~~~~~~~~~~~~~~~~~
 
@@ -33,7 +34,7 @@ Written resources
 .. _basics of reading a CSV file: http://learningtensorflow.com/ReadingFilesBasic/
 .. _Custom Data Readers: https://www.tensorflow.org/extend/new_data_formats
 
-
+~~~~~~~~~~~~~~~~
 Visual resources
 ~~~~~~~~~~~~~~~~
 
@@ -41,16 +42,18 @@ Visual resources
 
 .. _Tensorflow tutorial on TFRecords: https://www.youtube.com/watch?v=F503abjanHA
 
+----------
 Variables
 ----------
 
 Variables are supposed to hold the parameters and supersede by new values as the parameters are updated.
 Variables must be clearly set and initialized.
 
-
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
+^^^^^^^^^^^^^^^^^^^^^^^^
 Creation, Initialization
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -62,6 +65,7 @@ Creation, Initialization
 .. _Introduction to TensorFlow Variables - Creation and Initialization: http://machinelearninguru.com/deep_learning/tensorflow/basics/variables/variables.html
 .. _Variables: http://learningtensorflow.com/lesson2/
 
+^^^^^^^^^^^^^^^^^^^^^
 Saving and restoring
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -71,7 +75,7 @@ Saving and restoring
 .. _Saving and Loading Variables: https://www.tensorflow.org/programmers_guide/variables
 .. _save and restore Tensorflow models: http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
 
-
+^^^^^^^^^^^^^^^^^
 Sharing Variables
 ^^^^^^^^^^^^^^^^^
 
@@ -79,7 +83,7 @@ Sharing Variables
 
 .. _Sharing Variables: https://www.tensorflow.org/programmers_guide/variable_scope
 
-
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -91,15 +95,17 @@ Visual Resources
 .. _Tensorflow Variables: https://www.youtube.com/watch?v=UYyqNH3r4lk
 .. _Save and Restore in TensorFlow: https://www.tensorflow.org/programmers_guide/variable_scope
 
-
+--------------------
 TensorFlow Utilities
 --------------------
 
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
+^^^^^^^^^^
 Supervisor
 ^^^^^^^^^^
 
@@ -112,7 +118,7 @@ Supervisor
 .. _Using TensorFlow Supervisor with TensorBoard summary groups: https://dev.widemeadows.de/2017/01/21/using-tensorflows-supervisor-with-tensorboard-summary-groups/
 .. _Tensorflow example: http://codata.colorado.edu/notebooks/tutorials/tensorflow_example_davis_yoshida/
 
-
+^^^^^^^^^^^^^^^^^^^
 TensorFlow Debugger
 ^^^^^^^^^^^^^^^^^^^
 
@@ -127,7 +133,7 @@ TensorFlow Debugger
 .. _Debugging TensorFlow Codes: https://github.com/wookayin/tensorflow-talk-debugging
 .. _Debug TensorFlow Models with tfdbg: https://developers.googleblog.com/2017/02/debug-tensorflow-models-with-tfdbg.html
 
-
+^^^^^^^^^^
 MetaGraphs
 ^^^^^^^^^^
 
@@ -137,6 +143,7 @@ MetaGraphs
 .. _Exporting and Importing a MetaGraph: https://www.tensorflow.org/programmers_guide/meta_graph
 .. _Model checkpointing using meta-graphs in TensorFlow: http://www.seaandsailor.com/tensorflow-checkpointing.html
 
+^^^^^^^^^^^
 Tensorboard
 ^^^^^^^^^^^
 
@@ -150,6 +157,7 @@ Tensorboard
 .. _Visualisation with TensorBoard: http://learningtensorflow.com/Visualisation/
 .. _Tensorboard: http://edwardlib.org/tutorials/tensorboard
 
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
