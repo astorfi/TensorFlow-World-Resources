@@ -1,3 +1,8 @@
+
+.. contents::
+  :local:
+  :depth: 3
+
 ********************************************
 TensorFlow-World-Resources - `Project Page`_
 ********************************************
