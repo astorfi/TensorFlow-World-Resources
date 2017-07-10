@@ -1,14 +1,15 @@
+====================
 TensorFlow Tutorials
 ====================
 
 This section is dedicated to provide tutorial resources on the implementation of
 different models with TensorFlow.
 
-
+------------------------------
 Linear and Logistic Regression
 ------------------------------
 
-
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -29,7 +30,7 @@ Written Resources
 .. _Linear Regression using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/linear_regression
 .. _Logistic Regression using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/logistic_regression
 
-
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -40,11 +41,11 @@ Visual Resources
 .. _Deep Learning with Tensorflow - Linear Regression with TensorFlow: https://www.youtube.com/watch?v=zNalsMIB3NE
 
 
-
+------------------------------
 Convolutional Neural Networks
 ------------------------------
 
-
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -61,7 +62,7 @@ Written Resources
 .. _Convolutional Neural Network CNN with TensorFlow tutorial: https://pythonprogramming.net/cnn-tensorflow-convolutional-nerual-network-machine-learning-tutorial/
 .. _Deep Learning CNNs in Tensorflow with GPUs: https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2
 
-
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -75,10 +76,11 @@ Visual Resources
 .. _Understanding Convolution with TensorFlow: https://www.youtube.com/watch?v=ETdaP_bBNWc
 .. _Deep Learning with Tensorflow: https://www.youtube.com/watch?v=yL-MkBSv18c
 
-
+-------------------------
 Recurrent Neural Networks
 -------------------------
 
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -98,6 +100,7 @@ Written Resources
 .. _Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html
 .. _TensorFlow RNN Tutorial: https://svds.com/tensorflow-rnn-tutorial/
 
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -116,6 +119,7 @@ Visual Resources
 Autoencoders
 -------------
 
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -131,7 +135,7 @@ Written Resources
 .. _Convolutional Autoencoders in Tensorflow: https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/
 .. _Variational Autoencoder using Tensorflow: http://int8.io/variational-autoencoder-in-tensorflow/
 
-
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -141,10 +145,11 @@ Visual Resources
 .. _Deep Learning with Tensorflow - Autoencoder Structure: https://www.youtube.com/watch?v=H_Bi_PQWJJc
 .. _Deep Learning with Tensorflow - RBMs and Autoencoders: https://www.youtube.com/watch?v=FsAvo0E5Pmw
 
-
+-----------------
 Generative models
 -----------------
 
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -154,7 +159,7 @@ Written Resources
 .. _Generative Adversarial Nets in TensorFlow: http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
 .. _Generative Adversarial Networks: http://edwardlib.org/tutorials/gan
 
-
+~~~~~~~~~~~~~~~~~
 Visual Resources
 ~~~~~~~~~~~~~~~~~
 
@@ -162,9 +167,11 @@ Visual Resources
 
 .. _TensorFlow Tutorial - Adversarial Examples: link
 
+-------------
 Multiple GPUs
 -------------
 
+~~~~~~~~~~~~~~~~~
 Written Resources
 ~~~~~~~~~~~~~~~~~
 
