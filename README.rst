@@ -1,8 +1,4 @@
 
-.. contents::
-  :local:
-  :depth: 3
-
 ********************************************
 TensorFlow-World-Resources - `Project Page`_
 ********************************************
@@ -18,6 +14,10 @@ TensorFlow-World-Resources - `Project Page`_
     :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
 
 
+.. contents::
+  :local:
+  :depth: 3
+  
 ============
 Introduction
 ============
