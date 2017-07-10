@@ -166,6 +166,7 @@ Visual Resources
 .. _TensorFlow Wide and Deep - Advanced Classification the easy way: https://www.youtube.com/watch?v=WKgNNC0VLhM
 .. _Tensorflow and deep learning - without a PhD: https://www.youtube.com/watch?v=vq2nnJ4g6N0
 
+
 ============================
 Programming with TensorFlow
 ============================
@@ -175,16 +176,16 @@ Programming with TensorFlow
 
 The references here, deal with the details of programming and writing TensorFlow code.
 
--------------------------------
+--------------------------------
 Reading data and input pipeline
--------------------------------
+--------------------------------
 
 The first part is always how to prepare data and how to provide the pipeline to feed it to TensorFlow.
 Usually providing the input pipeline can be complicated, even more than the structure design!
 
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 Written resources
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 * `Dataset API for TensorFlow Input Pipelines`_: A TensorFlow official documentation on *Using the Dataset API for TensorFlow Input Pipelines*
 * `TesnowFlow input pipeline`_: Input pipeline provided by Stanford.
@@ -202,9 +203,9 @@ Written resources
 .. _basics of reading a CSV file: http://learningtensorflow.com/ReadingFilesBasic/
 .. _Custom Data Readers: https://www.tensorflow.org/extend/new_data_formats
 
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 Visual resources
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 * `Tensorflow tutorial on TFRecords`_: A tutorial on how to transform data into TFRecords
 
@@ -263,15 +264,16 @@ Visual Resources
 .. _Tensorflow Variables: https://www.youtube.com/watch?v=UYyqNH3r4lk
 .. _Save and Restore in TensorFlow: https://www.tensorflow.org/programmers_guide/variable_scope
 
---------------------
+---------------------
 TensorFlow Utilities
---------------------
+---------------------
 
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 Written Resources
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
 
 ^^^^^^^^^^
 Supervisor
@@ -285,6 +287,7 @@ Supervisor
 .. _Supervisor - Training Helper for Days-Long Training: https://www.tensorflow.org/programmers_guide/supervisor
 .. _Using TensorFlow Supervisor with TensorBoard summary groups: https://dev.widemeadows.de/2017/01/21/using-tensorflows-supervisor-with-tensorboard-summary-groups/
 .. _Tensorflow example: http://codata.colorado.edu/notebooks/tutorials/tensorflow_example_davis_yoshida/
+
 
 ^^^^^^^^^^^^^^^^^^^
 TensorFlow Debugger
@@ -301,6 +304,7 @@ TensorFlow Debugger
 .. _Debugging TensorFlow Codes: https://github.com/wookayin/tensorflow-talk-debugging
 .. _Debug TensorFlow Models with tfdbg: https://developers.googleblog.com/2017/02/debug-tensorflow-models-with-tfdbg.html
 
+
 ^^^^^^^^^^
 MetaGraphs
 ^^^^^^^^^^
@@ -310,6 +314,7 @@ MetaGraphs
 
 .. _Exporting and Importing a MetaGraph: https://www.tensorflow.org/programmers_guide/meta_graph
 .. _Model checkpointing using meta-graphs in TensorFlow: http://www.seaandsailor.com/tensorflow-checkpointing.html
+
 
 ^^^^^^^^^^^
 Tensorboard
@@ -324,6 +329,7 @@ Tensorboard
 .. _ TensorFlow Ops: http://web.stanford.edu/class/cs20si/lectures/notes_02.pdf
 .. _Visualisation with TensorBoard: http://learningtensorflow.com/Visualisation/
 .. _Tensorboard: http://edwardlib.org/tutorials/tensorboard
+
 
 ~~~~~~~~~~~~~~~~~
 Visual Resources
