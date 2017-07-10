@@ -520,3 +520,10 @@ Written Resources
 
 .. _Using GPUs: https://www.tensorflow.org/tutorials/using_gpu
 .. _Deep Learning with Multiple GPUs on Rescale: https://blog.rescale.com/deep-learning-with-multiple-gpus-on-rescale-tensorflow/
+
+===================
+TensorFlow Projects
+===================
+
+This section is dedicated to provide resources that are mainly open source projects developed by TensorFlow.
+Those might be comprehensive tutorials on working example.
