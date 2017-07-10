@@ -4,7 +4,7 @@ TensorFlow-World-Resources - `Project Page`_
 ********************************************
 .. _Project Page: http://tensorflow-world-resources.readthedocs.io/en/latest/
 
-.. image:: _img/mainpage/TensorFlow_World.gif
+
 
 .. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
     :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
@@ -14,6 +14,8 @@ TensorFlow-World-Resources - `Project Page`_
     :target: https://github.com/ellerbrock/open-source-badge/
 .. image:: https://coveralls.io/repos/github/astorfi/TensorFlow-World-Resources/badge.svg?branch=master
     :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
+
+.. image:: _img/mainpage/TensorFlow_World.gif
 
 #################
 Table of Contents
