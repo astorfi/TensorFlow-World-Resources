@@ -62,9 +62,6 @@ Installation
 
 First of all, the TensorFlow must be installed!
 
-~~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~~
 
 * `Installing TensorFlow`_: Official TensorFLow installation
 * `Install TensorFlow from the source`_: A comprehensive guide on how to install TensorFlow from the source using python/anaconda
@@ -76,10 +73,6 @@ Written Resources
 .. _TensorFlow Installation: http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html
 .. _7 SIMPLE STEPS TO INSTALL TENSORFLOW ON WINDOWS: http://saintlad.com/install-tensorflow-on-windows/
 
-
-~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~
 
 * `Install TensorFlow on Ubuntu`_: A comprehensive tutorial on how to install TensorFlow on Ubuntu
 * `Installation of TensorFlow`_: The video covers how to setup TensorFlow
@@ -98,9 +91,6 @@ Getting Started
 
 This part points to resources on how to start to code with TensorFLow
 
-~~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~~
 
 * `Getting Started With TensorFlow Framework`_: This guide gets you started programming in TensorFlow
 * `learning TensorFlow Deep Learning`_:A great resource to start
@@ -110,9 +100,6 @@ Written Resources
 .. _Getting Started With TensorFlow Framework: https://www.tensorflow.org/get_started/get_started
 .. _Welcome to TensorFlow World: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/0-welcome
 
-~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~
 
 * `Gentlest Introduction to Tensorflow  <https://www.youtube.com/watch?v=dYhrCUFN0eM>`_
 * `TensorFlow in 5 Minutes  <https://www.youtube.com/watch?v=2FmcHiLCwTU/>`_
@@ -129,10 +116,6 @@ Advanced machine learning users can go deeper in TensorFlow in order to
 *hit the root*. Scratching the surface may never take us too further!
 
 
-~~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~~
-
 * `TensorFlow Mechanics`_: More experienced machine learning users can dig more in TensorFlow
 * `Advanced TensorFlow`_: Advanced Tutorials in TensorFlow
 * `We Need to Go Deeper`_: A Practical Guide to Tensorflow and Inception
@@ -146,10 +129,6 @@ Written Resources
 .. _We Need to Go Deeper: https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f
 .. _Wide and Deep Learning - Better Together with TensorFlow: https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
 
-
-~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~
 
 * `TensorFlow DeepDive`_: More experienced machine learning users can dig more in TensorFlow
 * `Go Deeper - Transfer Learning`_: TensorFlow and Deep Learning
@@ -181,10 +160,6 @@ Reading data and input pipeline
 The first part is always how to prepare data and how to provide the pipeline to feed it to TensorFlow.
 Usually providing the input pipeline can be complicated, even more than the structure design!
 
-~~~~~~~~~~~~~~~~~~
-Written resources
-~~~~~~~~~~~~~~~~~~
-
 * `Dataset API for TensorFlow Input Pipelines`_: A TensorFlow official documentation on *Using the Dataset API for TensorFlow Input Pipelines*
 * `TesnowFlow input pipeline`_: Input pipeline provided by Stanford.
 * `TensorFlow input pipeline example`_: A working example.
@@ -201,10 +176,6 @@ Written resources
 .. _basics of reading a CSV file: http://learningtensorflow.com/ReadingFilesBasic/
 .. _Custom Data Readers: https://www.tensorflow.org/extend/new_data_formats
 
-~~~~~~~~~~~~~~~~~
-Visual resources
-~~~~~~~~~~~~~~~~~
-
 * `Tensorflow tutorial on TFRecords`_: A tutorial on how to transform data into TFRecords
 
 .. _Tensorflow tutorial on TFRecords: https://www.youtube.com/watch?v=F503abjanHA
@@ -216,9 +187,6 @@ Variables
 Variables are supposed to hold the parameters and supersede by new values as the parameters are updated.
 Variables must be clearly set and initialized.
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Creation, Initialization
@@ -250,10 +218,6 @@ Sharing Variables
 
 .. _Sharing Variables: https://www.tensorflow.org/programmers_guide/variable_scope
 
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
-
 * `Deep Learning with Tensorflow - Tensors and Variables`_: A Tensorflow tutorial for introducing Tensors, Variables and Placeholders
 * `Tensorflow Variables`_: A quick introduction to TensorFlow variables
 * `Save and Restore in TensorFlow`_: TensorFlow Tutorial on Save and Restore variables
@@ -268,9 +232,6 @@ TensorFlow Utilities
 
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
 
 ^^^^^^^^^^
 Supervisor
@@ -324,9 +285,6 @@ Tensorboard
 .. _Visualisation with TensorBoard: http://learningtensorflow.com/Visualisation/
 .. _Tensorboard: http://edwardlib.org/tutorials/tensorboard
 
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
 
 * `Hands-on TensorBoard (TensorFlow Dev Summit 2017)`_: An introduction to the amazing things you can do with TensorBoard
 * `Tensorboard Explained in 5 Min`_: Providing the code for a simple handwritten character classifier in Python and visualizing it in Tensorboard
@@ -348,10 +306,6 @@ different models with TensorFlow.
 Linear and Logistic Regression
 ------------------------------
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
-
 * `TensorFlow Linear Model Tutorial`_: Using TF.Learn API in TensorFlow to solve a binary classification problem
 * `Linear Regression in Tensorflow`_: Predicting house prices in Boston area
 * `Linear regression with Tensorflow`_: Make use of tensorflow for numeric computation using data flow graphs
@@ -369,10 +323,6 @@ Written Resources
 .. _Linear Regression using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/linear_regression
 .. _Logistic Regression using TensorFlow: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/logistic_regression
 
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
-
 * `Deep Learning with Tensorflow - Logistic Regression`_: A tutorial on Logistic Regression
 * `Deep Learning with Tensorflow - Linear Regression with TensorFlow`_: A tutorial on Linear Regression
 
@@ -384,9 +334,6 @@ Visual Resources
 Convolutional Neural Networks
 ------------------------------
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
 
 * `Convolutional Neural Networks`_: Official TensorFlow documentation
 * `Convolutional Neural Networks using TensorFlow`_: Training a classifier using convolutional neural networks
@@ -400,10 +347,6 @@ Written Resources
 .. _Image classifier using convolutional neural network: http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
 .. _Convolutional Neural Network CNN with TensorFlow tutorial: https://pythonprogramming.net/cnn-tensorflow-convolutional-nerual-network-machine-learning-tutorial/
 .. _Deep Learning CNNs in Tensorflow with GPUs: https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2
-
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
 
 * `Deep Learning with Neural Networks`_: Convolutional Neural Networks with TensorFlow
 * `TensorFlow Tutorial`_: Convolutional Neural Network
@@ -419,9 +362,6 @@ Visual Resources
 Recurrent Neural Networks
 -------------------------
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
 
 * `Recurrent Neural Networks`_: TensorFlow official documentation
 * `How to build a Recurrent Neural Network in TensorFlow`_: How to build a simple working Recurrent Neural Network in TensorFlow
@@ -439,9 +379,6 @@ Written Resources
 .. _Sequence prediction using recurrent neural networks(LSTM) with TensorFlow: http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html
 .. _TensorFlow RNN Tutorial: https://svds.com/tensorflow-rnn-tutorial/
 
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
 
 * `Deep Learning with Neural Networks and TensorFlow`_: Recurrent Neural Networks (RNN)
 * `An Introduction to LSTMs in Tensorflow`_: A brief tutorial
@@ -459,9 +396,6 @@ Visual Resources
 Autoencoders
 -------------
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
 
 * `Deep Autoencoder with TensorFlow`_: An open source project
 * `Variational Autoencoder in TensorFlow`_: A tutorial on Variational Autoencoder
@@ -475,9 +409,6 @@ Written Resources
 .. _Convolutional Autoencoders in Tensorflow: https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/
 .. _Variational Autoencoder using Tensorflow: http://int8.io/variational-autoencoder-in-tensorflow/
 
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
 
 * `Deep Learning with Tensorflow - Autoencoder Structure`_: Tutorial on Autoencoder models
 * `Deep Learning with Tensorflow - RBMs and Autoencoders`_: Tutorial on Restricted Boltzmann machines and AEs
@@ -489,19 +420,11 @@ Visual Resources
 Generative models
 -----------------
 
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
-
 * `Generative Adversarial Nets in TensorFlow`_: Implementing GAN using TensorFlow, with MNIST data
 * `Generative Adversarial Networks`_: A working example of Generative Adversarial Networks
 
 .. _Generative Adversarial Nets in TensorFlow: http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
 .. _Generative Adversarial Networks: http://edwardlib.org/tutorials/gan
-
-~~~~~~~~~~~~~~~~~
-Visual Resources
-~~~~~~~~~~~~~~~~~
 
 * `TensorFlow Tutorial - Adversarial Examples`_: A tutorial on a working example for generative models
 
@@ -510,10 +433,6 @@ Visual Resources
 -------------
 Multiple GPUs
 -------------
-
-~~~~~~~~~~~~~~~~~
-Written Resources
-~~~~~~~~~~~~~~~~~
 
 * `Using GPUs`_: Official TensorFlow documentation
 * `Deep Learning with Multiple GPUs on Rescale`_: TensorFlow Tutorial
@@ -595,7 +514,6 @@ Online Courses and Documentations
 .. _Tensorflow for Deep Learning Research: https://web.stanford.edu/class/cs20si/
 .. _Creative Applications of Deep Learning with TensorFlow: https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 .. _Deep Learning with TensorFlow Tutorial: https://cognitiveclass.ai/courses/deep-learning-tensorflow/
-
 
 
 ------
