@@ -12,6 +12,7 @@ TensorFlow-World-Resources - `Project Page`_
 .. image:: https://coveralls.io/repos/github/astorfi/TensorFlow-World-Resources/badge.svg?branch=master
     :target: https://coveralls.io/github/astorfi/TensorFlow-World-Resources?branch=master
 
+
 ============
 Introduction
 ============
