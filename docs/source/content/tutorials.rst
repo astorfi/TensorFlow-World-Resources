@@ -116,6 +116,7 @@ Visual Resources
 .. _Sequence Models and the RNN API: https://www.youtube.com/watch?v=RIR_-Xlbp7s
 .. _RNN Example in Tensorflow: https://www.youtube.com/watch?v=dFARw8Pm0Gk
 
+-------------
 Autoencoders
 -------------
 

@@ -1,10 +1,11 @@
+====================
 TensorFlow Projects
 ====================
 
 This section is dedicated to provide resources that are mainly open source projects developed by TensorFlow.
 Those might be comprehensive tutorials on working example.
 
-
+~~~~~~~~~~~~~~~~~~~~~~~
 Comprehensive Tutorials
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -22,7 +23,7 @@ Comprehensive Tutorials
 .. _Tensorflow Tutorials using Jupyter Notebook: https://github.com/sjchoi86/Tensorflow-101
 .. _TensorFlow for Deep Learning Research: https://github.com/chiphuyen/tf-stanford-tutorials
 
-
+~~~~~~~
 Models
 ~~~~~~~
 
