@@ -376,12 +376,12 @@ Convolutional Neural Networks
 * `Deep Learning with Neural Networks`_: Convolutional Neural Networks with TensorFlow
 * `TensorFlow Tutorial`_: Convolutional Neural Network
 * `Understanding Convolution with TensorFlow`_: A tutorial on Convolution operation with TensorFlow
-* `Deep Learning with Tensorflow`_: Convolutional Network with TensorFlow
+* `CNN - Deep Learning with Tensorflow`_: Convolutional Network with TensorFlow
 
 .. _Deep Learning with Neural Networks: https://www.youtube.com/watch?v=mynJtLhhcXk
 .. _TensorFlow Tutorial: https://www.youtube.com/watch?v=HMcx-zY8JSg
 .. _Understanding Convolution with TensorFlow: https://www.youtube.com/watch?v=ETdaP_bBNWc
-.. _Deep Learning with Tensorflow: https://www.youtube.com/watch?v=yL-MkBSv18c
+.. _CNN - Deep Learning with Tensorflow: https://www.youtube.com/watch?v=yL-MkBSv18c
 
 -------------------------
 Recurrent Neural Networks
