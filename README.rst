@@ -205,6 +205,10 @@ Usually providing the input pipeline can be complicated, even more than the stru
 
 .. _Tensorflow tutorial on TFRecords: https://www.youtube.com/watch?v=F503abjanHA
 
+* `An introduction to TensorFlow queuing and threading`_: A tutorial on how to understand and create queues an efficient pipelines
+
+.. _An introduction to TensorFlow queuing and threading: http://adventuresinmachinelearning.com/introduction-tensorflow-queuing/
+
 ----------
 Variables
 ----------
