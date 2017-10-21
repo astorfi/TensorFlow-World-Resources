@@ -507,6 +507,8 @@ Those might be comprehensive tutorials on working example.
 Comprehensive Tutorials
 -----------------------
 
+.. image:: _img/mainpage/tutorial.gif
+
 * `TensorFlow-World`_: Concise and ready-to-use TensorFlow tutorials with detailed documentation
 * `TensorFlow-Tutorials`_: Introduction to deep learning based on Google's TensorFlow framework
 * `TensorFlow Tutorials`_: Organized tutorials in TensorFlow
@@ -522,6 +524,8 @@ Comprehensive Tutorials
 ------
 Models
 ------
+
+.. image:: _img/mainpage/models.png
 
 * `TensorFlow Models`_: Machine learning models implemented in TensorFlow
 * `Tensorflow VGG16 and VGG19`_: Implementation of VGG 16 and VGG 19 based on tensorflow-vgg16 and Caffe to Tensorflow
@@ -557,6 +561,8 @@ This section is dedicated to provide published resources on TensorFlow, Such as 
 Online Courses and Documentations
 ---------------------------------
 
+.. image:: _img/mainpage/online.gif
+
 * `LearningTensorFlow`_: Beginner-level tutorials for a TensorFlow
 * `Deep Learning by Google`_: A free online course developed by Google and Udacity
 * `Tensorflow for Deep Learning Research`_: A comprehensive course by Stanford
@@ -573,6 +579,8 @@ Online Courses and Documentations
 ------
 Books
 ------
+
+.. image:: _img/mainpage/books.jpg
 
 * `TensorFlow Machine Learning Cookbook`_: Quick guide to implementing TensorFlow in your day-to-day machine learning activities
 * `Deep Learning with TensorFlow`_: Throughout the book, you’ll learn how to implement deep learning algorithms for machine learning systems
