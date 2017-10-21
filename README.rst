@@ -445,6 +445,7 @@ Recurrent Neural Networks
 Autoencoders
 -------------
 
+.. image:: _img/mainpage/autoencoder.png
 
 * `Deep Autoencoder with TensorFlow`_: An open source project
 * `Variational Autoencoder in TensorFlow`_: A tutorial on Variational Autoencoder
