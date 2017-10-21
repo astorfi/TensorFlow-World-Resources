@@ -144,6 +144,8 @@ This part points to resources on how to start to code with TensorFLow
 Going Deeper in TensorFLow
 --------------------------
 
+.. image:: _img/mainpage/goingdeep.gif
+
 Advanced machine learning users can go deeper in TensorFlow in order to
 *hit the root*. Scratching the surface may never take us too further!
 
