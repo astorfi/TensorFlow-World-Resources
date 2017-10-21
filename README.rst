@@ -119,6 +119,8 @@ First of all, the TensorFlow must be installed!
 Getting Started
 ---------------
 
+.. image:: _img/mainpage/gettingstarted.gif
+
 This part points to resources on how to start to code with TensorFLow
 
 
