@@ -378,6 +378,8 @@ Linear and Logistic Regression
 Convolutional Neural Networks
 ------------------------------
 
+.. image:: _img/mainpage/CNNs.png
+
 
 * `Convolutional Neural Networks`_: Official TensorFlow documentation
 * `Convolutional Neural Networks using TensorFlow`_: Training a classifier using convolutional neural networks
