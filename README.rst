@@ -347,6 +347,9 @@ different models with TensorFlow.
 Linear and Logistic Regression
 ------------------------------
 
+.. image:: _img/mainpage/logisticregression.png
+
+
 * `TensorFlow Linear Model Tutorial`_: Using TF.Learn API in TensorFlow to solve a binary classification problem
 * `Linear Regression in Tensorflow`_: Predicting house prices in Boston area
 * `Linear regression with Tensorflow`_: Make use of tensorflow for numeric computation using data flow graphs
