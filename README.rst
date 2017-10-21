@@ -408,6 +408,9 @@ Convolutional Neural Networks
 Recurrent Neural Networks
 -------------------------
 
+.. image:: _img/mainpage/RNN.png
+
+
 
 * `Recurrent Neural Networks`_: TensorFlow official documentation
 * `How to build a Recurrent Neural Network in TensorFlow`_: How to build a simple working Recurrent Neural Network in TensorFlow
