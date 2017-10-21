@@ -488,6 +488,8 @@ Generative models
 Multiple GPUs
 -------------
 
+.. image:: _img/mainpage/multiple_gpu.gif
+
 * `Using GPUs`_: Official TensorFlow documentation
 * `Deep Learning with Multiple GPUs on Rescale`_: TensorFlow Tutorial
 
