@@ -20,10 +20,10 @@ TensorFlow-World-Resources - `Project Page`_
 #################
 Table of Contents
 #################
-.. contents:: 
+.. contents::
   :local:
   :depth: 3
-  
+
 ============
 Introduction
 ============
@@ -87,6 +87,8 @@ resources will be addressed.
 -------------
 Installation
 -------------
+
+.. image:: _img/mainpage/installation.gif
 
 First of all, the TensorFlow must be installed!
 
