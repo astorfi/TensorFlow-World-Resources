@@ -188,6 +188,8 @@ The references here, deal with the details of programming and writing TensorFlow
 Reading data and input pipeline
 --------------------------------
 
+.. image:: _img/mainpage/readingdata.gif
+
 The first part is always how to prepare data and how to provide the pipeline to feed it to TensorFlow.
 Usually providing the input pipeline can be complicated, even more than the structure design!
 
@@ -218,6 +220,8 @@ Usually providing the input pipeline can be complicated, even more than the stru
 ----------
 Variables
 ----------
+
+.. image:: _img/mainpage/variables.gif
 
 Variables are supposed to hold the parameters and supersede by new values as the parameters are updated.
 Variables must be clearly set and initialized.
@@ -264,6 +268,8 @@ Sharing Variables
 --------------------
 TensorFlow Utilities
 --------------------
+
+.. image:: _img/mainpage/utility.gif
 
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
