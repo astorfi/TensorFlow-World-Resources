@@ -470,6 +470,10 @@ Autoencoders
 Generative models
 -----------------
 
+.. image:: _img/mainpage/generative_model.gif
+
+
+
 * `Generative Adversarial Nets in TensorFlow`_: Implementing GAN using TensorFlow, with MNIST data
 * `Generative Adversarial Networks`_: A working example of Generative Adversarial Networks
 
