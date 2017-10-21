@@ -470,7 +470,7 @@ Autoencoders
 Generative models
 -----------------
 
-.. image:: _img/mainpage/generative_model.gif
+.. image:: _img/mainpage/generative_model.png
 
 
 
@@ -488,7 +488,7 @@ Generative models
 Multiple GPUs
 -------------
 
-.. image:: _img/mainpage/multiple_gpu.gif
+.. image:: _img/mainpage/multiple_gpu.png
 
 * `Using GPUs`_: Official TensorFlow documentation
 * `Deep Learning with Multiple GPUs on Rescale`_: TensorFlow Tutorial
