@@ -561,7 +561,7 @@ This section is dedicated to provide published resources on TensorFlow, Such as 
 Online Courses and Documentations
 ---------------------------------
 
-.. image:: _img/mainpage/online.gif
+.. image:: _img/mainpage/online.png
 
 * `LearningTensorFlow`_: Beginner-level tutorials for a TensorFlow
 * `Deep Learning by Google`_: A free online course developed by Google and Udacity
