@@ -269,7 +269,7 @@ Sharing Variables
 TensorFlow Utilities
 --------------------
 
-.. image:: _img/mainpage/utility2.gif
+.. image:: _img/mainpage/utility.png
 
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
