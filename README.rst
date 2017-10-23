@@ -507,7 +507,7 @@ Those might be comprehensive tutorials on working example.
 Comprehensive Tutorials
 -----------------------
 
-.. image:: _img/mainpage/tutorial.gif
+.. image:: _img/mainpage/tutorial.png
 
 * `TensorFlow-World`_: Concise and ready-to-use TensorFlow tutorials with detailed documentation
 * `TensorFlow-Tutorials`_: Introduction to deep learning based on Google's TensorFlow framework
