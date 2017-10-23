@@ -271,6 +271,10 @@ TensorFlow Utilities
 
 .. image:: _img/mainpage/utility.png
 
+.. figure:: _img/mainpage/utility.png
+   :scale: 20 %
+   :alt: map to buried treasure
+
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
 
