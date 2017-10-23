@@ -271,17 +271,17 @@ TensorFlow Utilities
 
 .. image:: _img/mainpage/utility.png
 
-.. figure:: _img/mainpage/utility.png
-   :scale: 20 %
-   :alt: map to buried treasure
-
-.. raw:: html
-
-    <p style="height:22px">
-      <a href="https://github.com/astorfi/TensorFlow-World-Resources/blob/master/_img/mainpage/utility.png" >
-        <img src="https://github.com/astorfi/TensorFlow-World-Resources/blob/master/_img/mainpage/utility.png"/>
-      </a>
-    </p>
+.. .. figure:: _img/mainpage/utility.png
+..    :scale: 20 %
+..    :alt: map to buried treasure
+..
+.. .. raw:: html
+..
+..     <p style="height:22px">
+..       <a href="https://github.com/astorfi/TensorFlow-World-Resources/blob/master/_img/mainpage/utility.png" >
+..         <img src="https://github.com/astorfi/TensorFlow-World-Resources/blob/master/_img/mainpage/utility.png"/>
+..       </a>
+..     </p>
 
 Different utilities empower TensorFlow for faster computation in a more monitored manner.
 
