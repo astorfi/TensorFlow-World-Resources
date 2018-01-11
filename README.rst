@@ -4,10 +4,8 @@ TensorFlow-World-Resources - `Project Page`_
 ********************************************
 .. _Project Page: http://tensorflow-world-resources.readthedocs.io/en/latest/
 
-
-
-.. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
-    :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
+.. .. image:: https://travis-ci.org/astorfi/TensorFlow-World-Resources.svg?branch=master
+..     :target: https://travis-ci.org/astorfi/TensorFlow-World-Resources
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
     :target: https://github.com/astorfi/TensorFlow-World-Resources/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
