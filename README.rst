@@ -576,7 +576,7 @@ Online Courses and Documentations
 * `LearningTensorFlow`_: Beginner-level tutorials for a TensorFlow
 * `Deep Learning by Google`_: A free online course developed by Google and Udacity
 * `Tensorflow for Deep Learning Research`_: A comprehensive course by Stanford
-* `Creative Applications of Deep Learning with TensorFlow`_: A non-free course on TensorFlow
+* `Creative Applications of Deep Learning with TensorFlow`_: A free online course on TensorFlow from Kadenze
 * `Deep Learning with TensorFlow Tutorial`_: In this TensorFlow course, you will be able to learn the basic concepts of TensorFlow
 
 .. _LearningTensorFlow: https://learningtensorflow.com/
