@@ -162,6 +162,7 @@ Advanced machine learning users can go deeper in TensorFlow in order to
 * `TensorFlow DeepDive`_: More experienced machine learning users can dig more in TensorFlow
 * `Go Deeper - Transfer Learning`_: TensorFlow and Deep Learning
 * `Distributed TensorFlow - Design Patterns and Best Practices`_: A talk that was given at the Advanced Spark and TensorFlow Meetup
+* `Distributed TensorFlow Guide`_
 * `Fundamentals of TensorFlow`_
 * `TensorFlow Wide and Deep - Advanced Classification the easy way`_
 * `Tensorflow and deep learning - without a PhD`_: A great tutorial on TensoFLow workflow
@@ -171,6 +172,7 @@ Advanced machine learning users can go deeper in TensorFlow in order to
 .. _TensorFlow DeepDive: https://www.youtube.com/watch?v=T0H6zF3K1mc
 .. _Go Deeper - Transfer Learning: https://www.youtube.com/watch?v=iu3MOQ-Z3b4
 .. _Distributed TensorFlow - Design Patterns and Best Practices: https://www.youtube.com/watch?v=YAkdydqUE2c
+.. _Distributed TensorFlow Guide: https://github.com/tmulc18/Distributed-TensorFlow-Guide
 .. _Fundamentals of TensorFlow: https://www.youtube.com/watch?v=EM6SU8QVSlY
 .. _TensorFlow Wide and Deep - Advanced Classification the easy way: https://www.youtube.com/watch?v=WKgNNC0VLhM
 .. _Tensorflow and deep learning - without a PhD: https://www.youtube.com/watch?v=vq2nnJ4g6N0
