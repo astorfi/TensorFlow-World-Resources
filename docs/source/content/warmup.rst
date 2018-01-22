@@ -9,7 +9,7 @@ resources will be addressed.
 Installation
 -------------
 
-First of all, the TensorFlow must be installed!
+First of all, TensorFlow must be installed!
 
 ~~~~~~~~~~~~~~~~~~
 Written Resources
