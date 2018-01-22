@@ -16,11 +16,11 @@ Why using TensorFlow?
 
 A deep learning is of great interest these days, the crucial necessity for rapid and optimized implementation of the algorithms
 and designing architectures is the software environment. TensorFlow is designed to facilitate this goal. The strong advantage of
-TensorFlow is it flexibility is designing highly modular model which also can be a disadvantage too for beginners since lots of
+TensorFlow is its flexibility in designing a highly modular model which can also be a disadvantage for beginners since lots of
 the pieces must be considered together for creating the model. This issue has been facilitated as well by developing high-level APIs
 such as `Keras <https://keras.io/>`_ and `Slim <https://github.com/tensorflow/models/blob/master/inception/inception/slim/README.md//>`_
 which gather lots of the design puzzle pieces. The interesting point about TensorFlow is that **its trace can be found anywhere these days**.
-Lots of the researchers and developers are using it and *its community is growing with the speed of light*! So the possible issues can
+Lots of researchers and developers are using it and *its community is growing with the speed of light*! So the possible issues can
 be overcame easily since they might be the issues of lots of other people considering a large number of people involved in TensorFlow community.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
