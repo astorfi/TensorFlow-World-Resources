@@ -548,6 +548,7 @@ Models
 * `Domain Transfer Network (DTN)`_: The implementation of `Unsupervised Cross-Domain Image Generation <https://arxiv.org/abs/1611.02200>`_ in TensorFlow
 * `Neural Style`_: The Neural Style algorithm implementation that synthesizes a pastiche
 * `SqueezeNet in TensorFlow`_: Tensorflow implementation of SqueezeNet
+* `Pretrained Classification Models`_: Collection of classification models pretrained on the ImageNet-1K
 
 
 .. _TensorFlow Models: https://github.com/tensorflow/models
@@ -559,6 +560,7 @@ Models
 .. _Domain Transfer Network (DTN): https://github.com/yunjey/domain-transfer-network
 .. _Neural Style: https://github.com/cysmith/neural-style-tf
 .. _SqueezeNet in TensorFlow: https://github.com/vonclites/squeezenet
+.. _Pretrained Classification Models: https://github.com/osmr/imgclsmob
 
 
 ===================
