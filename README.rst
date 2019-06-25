@@ -607,6 +607,7 @@ Books
 * `Getting Started with TensorFlow`_: An easy-to-understand book on TensorFlow
 * `Hands-On Machine Learning with Scikit-Learn and TensorFlow`_: By using examples, theory, the book help to gain an understanding of the machine learning concepts
 * `Machine Learning with TensorFlow (MEAP)`_: An introduction to the concepts of TensorFlow
+* `Probabilistic Deep Learning with Python (MEAP)`_: Book that teaches the probabilistic approach to deep learning.
 
 .. _TensorFlow Machine Learning Cookbook: https://www.amazon.com/dp/B01HY3TC54/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 .. _Deep Learning with TensorFlow: https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow
@@ -617,6 +618,7 @@ Books
 .. _Getting Started with TensorFlow: https://www.amazon.com/Getting-Started-TensorFlow-Giancarlo-Zaccone-ebook/dp/B01H1JD6JO
 .. _Hands-On Machine Learning with Scikit-Learn and TensorFlow: http://shop.oreilly.com/product/0636920052289.do
 .. _Machine Learning with TensorFlow (MEAP): https://www.manning.com/books/machine-learning-with-tensorflow
+.. Probabilistic Deep Learning with Python (MEAP): https://www.manning.com/books/probabilistic-deep-learning-with-python
 
 
 ============
