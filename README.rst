@@ -618,7 +618,7 @@ Books
 .. _Getting Started with TensorFlow: https://www.amazon.com/Getting-Started-TensorFlow-Giancarlo-Zaccone-ebook/dp/B01H1JD6JO
 .. _Hands-On Machine Learning with Scikit-Learn and TensorFlow: http://shop.oreilly.com/product/0636920052289.do
 .. _Machine Learning with TensorFlow (MEAP): https://www.manning.com/books/machine-learning-with-tensorflow
-.. Probabilistic Deep Learning with Python (MEAP): https://www.manning.com/books/probabilistic-deep-learning-with-python
+.. _Probabilistic Deep Learning with Python (MEAP): https://www.manning.com/books/probabilistic-deep-learning-with-python
 
 
 ============
