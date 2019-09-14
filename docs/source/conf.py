@@ -22,7 +22,7 @@ extensions = [
 ]
 templates_path = ['_templates']
 
-edit_on_github_project = 'astorfi/TensorFlow-World-Resources'
+edit_on_github_project = 'astorfi/TensorFlow-Roadmap'
 edit_on_github_branch = 'master'
 
 source_suffix = ['.rst', '.md']
@@ -31,8 +31,8 @@ source_suffix = ['.rst', '.md']
 # }
 
 master_doc = 'index'
-project = u'TensoFlow-World-Resources'
-copyright = u'2017, Amirsina Torfi'
+project = u'TensorFlow-Roadmap'
+copyright = u'2019, Amirsina Torfi'
 author = u'Amirsina Torfi'
 version = '1.0'
 release = '1.0'
@@ -44,11 +44,11 @@ pygments_style = 'sphinx'
 # }
 htmlhelp_basename = 'ReadTheDocsdoc'
 latex_documents = [
-    (master_doc, 'TensoFlow-World-Resources.tex', u'TensoFlow-World-Resources Documentation',
+    (master_doc, 'TensorFlow-Roadmap.tex', u'TensorFlow-Roadmap Documentation',
      u'Amirsina Torfi', 'manual'),
 ]
 man_pages = [
-    (master_doc, 'tensoflow-world-resources', u'TensoFlow-World-Resources Documentation',
+    (master_doc, 'tensoflow-roadmap', u'TensorFlow-Roadmap Documentation',
      [author], 1)
 ]
 exclude_patterns = [
@@ -71,13 +71,13 @@ html_theme_options = {
     'display_version': False,
 }
 
-github_url='https://github.com/astorfi/TensorFlow-World-Resources'
+github_url='https://github.com/astorfi/TensorFlow-Roadmap'
 
 html_context = {
 "display_github": True, # Add 'Edit on Github' link instead of 'View page source'
 "last_updated": True,
 "commit": False,
- 'github_url': 'https://github.com/astorfi/TensorFlow-World-Resources'
+ 'github_url': 'https://github.com/astorfi/TensorFlow-Roadmap'
 }
 
 

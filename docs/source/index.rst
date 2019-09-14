@@ -9,13 +9,13 @@ Welcome to TensoFlow-World-Resources's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Foreword
-   
+
    intro/intro
 
 .. toctree::
    :maxdepth: 2
    :caption: Content
-   
+
    content/warmup
    content/howtocode
    content/tutorials
@@ -26,11 +26,4 @@ Welcome to TensoFlow-World-Resources's documentation!
    :maxdepth: 2
    :caption: Document Credentials
 
-   
-   credentials/CONTRIBUTING
-   credentials/CODE_OF_CONDUCT
    credentials/LICENSE
-
-
-
-
