@@ -352,6 +352,17 @@ Tensorboard
 .. _Tensorboard Explained in 5 Min: https://www.youtube.com/watch?v=3bownM3L5zM
 .. _How to Use Tensorboard: https://www.youtube.com/watch?v=fBVEXKp4DIc
 
+
+~~~~~~~~~~
+Converters
+~~~~~~~~~~
+
+* `Convert PyTorch model to the Keras model`_: Non-official pytorch2keras converter
+* `Convert Gluon model to the Keras model`_: Non-official gluon2keras converter
+
+.. _Convert PyTorch model to the Keras model: https://github.com/nerox8664/pytorch2keras
+.. _Convert Gluon model to the Keras model: https://github.com/nerox8664/gluon2keras
+
 ====================
 TensorFlow Tutorials
 ====================
