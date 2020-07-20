@@ -352,6 +352,14 @@ Tensorboard
 .. _Tensorboard Explained in 5 Min: https://www.youtube.com/watch?v=3bownM3L5zM
 .. _How to Use Tensorboard: https://www.youtube.com/watch?v=fBVEXKp4DIc
 
+~~~~~~~~~~~~~~~~~~~
+Experiment Tracking
+~~~~~~~~~~~~~~~~~~~
+
+* `Guild AI and TensorFlow 2`_: Experiment tracking and hyperparameter optimization for TensorFlow.
+
+.. _Guild AI and TensorFlow 2: https://my.guild.ai/t/guild-ai-and-tensorflow-2/237
+
 ====================
 TensorFlow Tutorials
 ====================
